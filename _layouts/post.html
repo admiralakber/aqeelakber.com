@@ -16,9 +16,9 @@ layout: default
         <header class="post-header" style="text-align: center;">
             <h1>{{ page.title }}</h1>
             {% if page.author %}<p>{{ page.author }}</p>{% endif %}
-            <p style="font-style: italic;">Post started: {{ page.date | date: "%-d %b %Y" }}</p>
+            <p style="font-style: italic;">Document started: {{ page.date | date: "%-d %b %Y" }}</p>
             <p style="font-style: italic;">Last modified: {{ page.lastmod | replace: "[", "" | replace "]", "" | date: "%-d %b %Y %H:%M" }}</p>
-            <a href="https://gitlab.com/admiralakber/aqeelakber.com/-/blob/main/{{ page.path }}" style="font-style: italic;">Full Post History</a>
+            <a href=https://gitlab.com/admiralakber/aqeelakber.com/-/blob/main/{{ page.path }} style="font-style: italic;">Full Document History</a>
             {% if page.tags %}<p style="font-variant: small-caps;"><i class="fa fa-tags" style="font-size: 0.7em;" aria-hidden="true"></i> {% for tag in page.tags %}<a href="/tags#{{ tag }}">{{ tag }}</a> {% endfor %}</p>{% endif %}
         </header>
         <br>

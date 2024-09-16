@@ -5,7 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: musings beauty
 #+JEKYLL_PUBLISHED: true
-#+lastmod: [2024-09-16 Mon 21:22]
+#+lastmod: [2024-09-16 Mon 22:04]
 
 Ah, said the cat,
 
@@ -15,4 +15,4 @@ Ah, said the cat,
 
 how I wished I had shared my experiences between my last posts and now.
 
-Well now, this is not too hard to repair. I'll share from here, and as I do, the wisdoms I've learned will be scattered among the words.
+Well now, this is not too hard to repair. I'll share from now, and as I do, the wisdoms I've learned will be scattered among the words.
