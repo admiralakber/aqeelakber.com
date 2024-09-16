@@ -1,0 +1,55 @@
+#+TITLE: Aqeel Akber personal website
+#+AUTHOR: Aqeel Akber <aqeel@aqeelakber.com>
+#+DATE: 2024-09-16
+
+I first made this website in 2016. I took it down in 2018. I am now bringing it
+back up in 2024. I am at a new point of life and can focus on my personal brand
+again. I simply need a blog to start with. This one works. See
+https://aqeelakber.com.
+
+I wrote this website for mobile first with a KISS philosophy from scratch. I
+wanted to see how beautiful of a reading experience I can create for the reader
+with nothing but the basics.
+
+You will find the code for this website is very basic indeed. Just standard
+HTML, CSS, JavaScript. This was my challenge. A reduced pallete. I try to fit as
+much goodness and joy out of it as possible.
+
+I have put little to no effort into optimising it for performance. I wanted the
+reader to be able to right click, view source, and be able to understand what I
+did if they wanted. Teaching / Sharing / Learning are part of what I want this
+website to instill. Because it is so basic, and honestly it's my personal blog
+so I don't get much traffic, I'm not concerned about the performance hit of
+serving comments in my code to the user.
+
+Visual design inspired by minimalism, scientific journal articles, and
+originally by https://colah.github.io
+
+The user experience is designed for comfortable reading like a book and app like
+familiarity.
+
+* Making your own blog and contributing
+
+Feel free to fork, you will want to delete everything in [[_posts][_posts]] and [[blog][blog]] and
+fill it in with your own content.
+
+Once you're up and running, I would appreciate a backlink or shoutout if you can
+and please let me know about your blog!
+
+* Generated with Jekyll
+
+This website is compiled with Jekyll. I like it. It's dead simple. Perfect for
+this project.
+
+* Commit Transparency
+
+Hosting on GitLab provides transparency. You may observe the commit
+history. Keep me honest.
+
+* Org files
+
+I have always been an org user and now thanks to [[https://github.com/yoshinari-nomura/org-octopress][org-octopress]] I can write my
+blog posts in org too. The org source files are uploaded in [[blog][blog]].
+
+Without content, a website is worthless. Integrating my org workflow has made it
+mentally easier for me to generate more awesome content.

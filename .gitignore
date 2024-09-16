@@ -1,0 +1,15 @@
+# Text editor stuff
+*.bak
+*~
+\#*\#
+.\#*
+
+# Jekyll build
+_site
+
+# Other mess
+#Makefile
+setupfile.html
+
+# Private
+private/

@@ -1,0 +1,87 @@
+#+TITLE: My Operating System
+#+AUTHOR: Aqeel Akber
+#+DATE: <2024-09-16 Mon>
+#+SETUPFILE: ~/blog/src/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_TAGS: myos
+#+JEKYLL_PUBLISHED: true
+
+* Table of Contents                                        :TOC_4_gh:noexport:
+- [[#definitions][Definitions]]
+  - [[#work][work]]
+  - [[#task][task]]
+  - [[#machine][machine]]
+  - [[#system][system]]
+- [[#theorems][Theorems]]
+  - [[#one][one]]
+  - [[#two][two]]
+  - [[#three][three]]
+
+* Definitions
+** work
+   :PROPERTIES:
+   :CUSTOM_ID: definition-work
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / definition work
+   Work is expending energy.
+   #+END_SRC
+** task
+   :PROPERTIES:
+   :CUSTOM_ID: definition-task
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / definition task
+   A task is a request for work to create a result for a purpose.
+   #+END_SRC
+** machine
+   :PROPERTIES:
+   :CUSTOM_ID: definition-machine
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / definition machine
+   A machine is a tool capable of doing work to produce a result.
+   #+END_SRC
+** system
+   :PROPERTIES:
+   :CUSTOM_ID: definition-system
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / definition system
+   A system is a collection of tools configured to complete a category of tasks.
+   #+END_SRC
+
+* Theorems
+** one
+   :PROPERTIES:
+   :CUSTOM_ID: theorem-1
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / theorem 1
+   An email account provides an interface for the outside world for you to send and receive tasks and work.
+   #+END_SRC
+** two
+   :PROPERTIES:
+   :CUSTOM_ID: theorem-2
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / theorem 2
+   To maximise efficiency towards reaching your goals:
+     - only work for a task
+     - only accept tasks with purpose that you accept as a human
+   #+END_SRC
+** three
+   :PROPERTIES:
+   :CUSTOM_ID: theorem-3
+   :END:
+
+   #+BEGIN_SRC keypoint
+   myOS / theorem 3
+   Your energy resource can be extended to superhuman by delegating to other humans or machines.
+   #+END_SRC

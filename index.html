@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Aqeel Akber, I'm a person."
+---
+
+<style>
+  body{
+    background:url('../assets/bg.jpg') no-repeat center center fixed;
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    overflow-x: hidden;
+  }
+</style>
+
+<div class="wrap-center">
+  <h1>Aqeel Akber</h1>
+  <p>
+    I am Aqeel Akber, a Ph.D dropout in <a href="https://physics.anu.edu.au/contact/people/profile.php?ID=1634">nuclear physics</a> at the Australian
+    National University.
+  </p>
+  <p>
+    I <a href="https://thaum.io" title="Company 1: Thaum">founded</a> a company.<br/>
+    I <a href="https://www.linkedin.com/posts/aqeelakber_business-founderstories-blog-activity-7119835542699069440-cGM0" title="Company 1: Exit post">exited</a> that company.<br/>
+    <br/>
+    I will always be a <a href="https://scholar.google.com/citations?user=puiCcrgAAAAJ&hl=en" title="Google Scholar: Aqeel Akber">scientist</a>.<br/>
+    I love art, science, nature, and humanity; a lot.<br/>
+    Through their stories and being:<br/>
+    My Father taught me to be a scientist is to be a humble servant to <a href="https://scholar.google.com/citations?hl=en&user=_Kyg2sMAAAAJ" title="Google Scholar: Riaz Akber">society</a>;<br/>
+    and <a href="https://riazakber.com" title="Riaz Akber">much more</a>.<br/>
+    My Mother taught me to hold space, make space, and to work with fire and alacrity.<br/>
+    My Friend and Mentor taught me .. pretty much everything.<br/><br/>
+    I am the product of all my experiences; including publishing these words.<br/>
+    I believe in living the future the you wish to see.<br/>
+    I founded my personal <a href="https://dsq.studio">research company</a>.<br/>
+    I create for-profit companies and startups to make the change I want to see in the world.<br/>
+    I strive to make the economic decision the ethical one.<br/>
+    I will speak, consult, advise, help, etc, for a fee and if there is mutual aligned benefit.<br/>
+    I have a <a href="https://linkedin.com/in/aqeelakber" title="LinkedIn: Aqeel Akber">LinkedIn</a>.<br/>
+    <br/>
+    I enjoy making machines that help me achieve my goals for fun and profit; to that end,<br/>
+    I am one of those people who have been coding and using *unix forever.<br/>
+    I live contemporary. I'm proud of my ability to learn. I am inspired by existence.<br/>
+    I operate within this <a href="/myos">system</a>.<br/>
+    <br/>
+    I have pride in my queerness.<br/>
+    I will always find beauty.<br/>
+    This blog is a brain dump. Enjoy.<br/>
+  </p>
+
+  <br>
+  <h1>Blog</h1>
+  <h2>Connectivity</h2>
+  <a href="/tags"><h4>Posts by tag</h4></a>
+  <div name="tagnet" class="svg-container">
+      <svg width="600" height="300" class="svg-content-responsive"></svg>
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="/js/tag-network.js"></script>
+  </div>
+  <h2>Posts by date</h2>
+  <ul style="list-style-type: none;">
+    {% for post in site.posts %}
+    <li>
+      <strong>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></strong><br>
+      {% if post.tags %}<span style="font-variant: small-caps;"><i class="fa fa-tags" style="font-size: 0.7em;" aria-hidden="true"></i> {% for tag in post.tags %}<a href="/tags#{{ tag }}">{{ tag }}</a> {% endfor %}</span>{% endif %}
+      {{ post.excerpt }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>

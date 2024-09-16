@@ -1,0 +1,33 @@
+# Site settings
+title: "Aqeel Akber"
+email: aqeel@aqeelakber.com
+description: "Founder. Poet. Scientist."
+baseurl: ""
+url: "https://aqeelakber.com"
+enforce_ssl: aqeelakber.com
+#twitter_username: AdmiralAkber
+#github_username:  AdmiralAkber
+#disqus_short_name: aakber
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+mathjax: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Aqeel Akber"
+      email: "aqeel@aqeelakber.com"
+      comments: false
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# org octopress
+permalink: /blog/:year-:month-:day-:title.html
