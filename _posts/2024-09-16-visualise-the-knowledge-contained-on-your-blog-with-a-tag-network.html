@@ -1,0 +1,190 @@
+---
+title: "Visualise the knowledge contained on your blog with a tag network"
+date: 2018-09-23
+layout: post
+categories: 
+tags: 
+- musings 
+- physics 
+- logging 
+- javascript
+published: true
+comments: 
+---
+<p>
+Since I started my Ph.D about 2 years ago, I have been thinking a lot about
+where knowledge is contained. This is because one of my objectives during my
+Ph.D is to advance human knowledge. My research sub-field in nuclear physics is
+nuclear structure. The holy grail of nuclear structure research (as far as I see
+it) is to represent the <a href="http://people.physics.anu.edu.au/~ecs103/chart/">nuclear chart</a> in such a way such that nuclei with
+similar quantum structure are grouped. The electronic quantum structure has been
+classified in this way already, we have the <a href="https://en.wikipedia.org/wiki/Periodic_table">periodic table</a> of elements. However,
+nuclear structure is objectively more complicated and it&rsquo;s unlikely that a
+simple 2-dimensional table will be an accurate representation. Thus, a large
+amount of study of nuclear structure involves identifying systematic trends
+between nuclei. I can add knowledge to the field of nuclear structure by
+connecting nuclei by a trend / behaviour. Turns out my thoughts on this topic
+align very closely with the relatively modern (2005) theory of learning called
+<a href="https://en.wikipedia.org/wiki/Connectivism">connectivism</a>.
+</p>
+<div id="outline-container-org5d4c714" class="outline-2">
+<h2 id="org5d4c714">Connecting nuclear physics and blogging</h2>
+<div class="outline-text-2" id="text-org5d4c714">
+<p>
+The posts on this blog are like nuclei. The ideas they contain might be
+related to others by a topic. Much like how all the nuclei mid shell are well
+described by the rotor model. I could tag all those nuclei with <span
+  style="font-variant: small-caps; color: maroon;">rotor</span> just like I
+<a href="/tags">tag blog posts</a> with a topic. Topics may be
+connected by posts. The simplest nuclear physics analogy I can think of:
+<span style="font-variant: small-caps; color: maroon;">K
+  isomer</span>s are connected to <span style="font-variant:
+  small-caps; color: maroon;">rotor</span>s by nuclei in the Hafnium region.
+Now this post connects <a href="/tags#blog" style="font-variant : small-caps;">blog</a>ging to <a href="/tags#physics" style="font-variant : small-caps;">physics</a> and I
+tricked you into learning some nuclear physics.
+</p>
+</div>
+</div>
+<div id="outline-container-org25cc9b1" class="outline-2">
+<h2 id="org25cc9b1">The knowledge contained in this blog</h2>
+<div class="outline-text-2" id="text-org25cc9b1">
+<p>
+I wanted a way for me to keep track of the big picture that this blog is
+presenting to the internet for self preservation and improvement. There&rsquo;s no
+way a tag cloud was going to be good enough for me. I want to know how topics
+are connected as that is some representation of the knowledge I have on the
+blog. I want a network of tags as nodes and posts as links, so I made it. Here
+it is:
+</p>
+
+<p>
+
+  <div name="tagnet" class="svg-container" style="display: inline-block!important;">
+  <svg width="300" height="200" class="svg-content-responsive"></svg>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="/js/tag-network.js"></script>
+  </div>
+  
+</p>
+
+<p>
+I have bounded the above to a tiny box so that it&rsquo;s viewable on all devices but
+may look a bit crowded. A more luxurious version can be found on <a
+href="/tags">my tags page</a> provided your screen is &gt;600px wide. The graph
+was made with JavaScript library <a href="https://github.com/d3/d3">D3.js</a> and I generated the input data from my
+blog using <a href="https://jekyllrb.com/docs/liquid/">Jekyll Liquid</a>.
+</p>
+
+<p>
+Nodes are sized based on how many posts have that tag. Nodes with more
+connections are forced closer together. You can mouse over the nodes to see the
+posts associated with the topic.
+</p>
+</div>
+<div id="outline-container-org2930232" class="outline-3">
+<h3 id="org2930232">Generating the data with Jekyll Liquid</h3>
+<div class="outline-text-3" id="text-org2930232">
+<p>
+This blog is hosted <a href="https://github.com/admiralakber/admiralakber.github.io">GitHub</a> and compiled automatically when I push to the
+repository using Jekyll. I wrote a bit of liquid that iterates over tags and
+posts and generates the input data.
+</p>
+
+<p>
+Liquid code: <a href="https://github.com/admiralakber/admiralakber.github.io/blob/master/js/tag-data.json">GitHub</a> → Jekyll output: <a href="/js/tag-data.json">This blog</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org454c4f0" class="outline-3">
+<h3 id="org454c4f0">Generating the graph</h3>
+<div class="outline-text-3" id="text-org454c4f0">
+<p>
+This is the combination of three D3.js examples by: <a href="https://bl.ocks.org/mbostock/4600693">Mike Bostock</a>, <a href="http://bl.ocks.org/d3noob/5141278">d3noob</a>, and
+<a href="https://bl.ocks.org/puzzler10/2531c035e8d514f125c4d15433f79d74">Tom Roth</a>.
+</p>
+
+<p>
+JavaScript code: <a href="https://github.com/admiralakber/admiralakber.github.io/blob/master/js/tag-network.js">GitHub</a>
+</p>
+</div>
+</div>
+<div id="outline-container-orgd53767c" class="outline-3">
+<h3 id="orgd53767c">Embedding it in your blog</h3>
+<div class="outline-text-3" id="text-orgd53767c">
+<p>
+Save the code above in a folder <code>/js</code> on your webhost and with a little bit
+of styling:
+</p>
+
+<div class="org-src-container">
+<pre class="src src-css">     <span style="color: #0000ff; font-weight: bold;">.node</span> {
+         <span style="color: #00AA00;">stroke</span>: <span style="color: #ffffff; background-color: #000;">#000</span>;
+         <span style="color: #00AA00;">stroke-width</span>: 1px;
+     }
+
+     <span style="color: #0000ff; font-weight: bold;">.link</span> {
+         <span style="color: #00AA00;">fill</span>: none;
+         <span style="color: #00AA00;">stroke</span>: <span style="color: #ffffff; background-color: #000;">#000</span>;
+     }
+     <span style="color: #0000ff; font-weight: bold;">.svg-container</span> {
+         <span style="color: #00AA00;">display</span>: inline-block;
+         <span style="color: #00AA00;">position</span>: relative;
+         <span style="color: #00AA00;">width</span>: <span style="color: #D0372D;">100</span>%;
+         <span style="color: #00AA00;">vertical-align</span>: top;
+         <span style="color: #00AA00;">overflow</span>: hidden;
+     }
+     <span style="color: #0000ff; font-weight: bold;">svg.svg-content-responsive</span> {
+         <span style="color: #00AA00;">display</span>: block;
+         <span style="color: #00AA00;">margin</span>: auto;
+         <span style="color: #00AA00;">position</span>: relative;
+         <span style="color: #00AA00;">left</span>: <span style="color: #D0372D;">0</span>;
+     }
+</pre>
+</div>
+
+<p>
+And a little HTML:
+</p>
+
+<div class="org-src-container">
+<pre class="src src-html">     &lt;<span style="color: #006699;">div</span> <span style="color: #BA36A5;">name</span>=<span style="color: #008000;">"tagnet"</span> <span style="color: #BA36A5;">class</span>=<span style="color: #008000;">"svg-container"</span>&gt;
+       &lt;<span style="color: #006699;">svg</span> <span style="color: #BA36A5;">width</span>=<span style="color: #008000;">"600"</span> <span style="color: #BA36A5;">height</span>=<span style="color: #008000;">"300"</span> <span style="color: #BA36A5;">class</span>=<span style="color: #008000;">"svg-content-responsive"</span>&gt;&lt;/<span style="color: #006699;">svg</span>&gt;
+       &lt;<span style="color: #006699;">script</span> <span style="color: #BA36A5;">src</span>=<span style="color: #008000;">"https://d3js.org/d3.v4.min.js"</span>&gt;&lt;/<span style="color: #006699;">script</span>&gt;
+       &lt;<span style="color: #006699;">script</span> <span style="color: #BA36A5;">src</span>=<span style="color: #008000;">"/js/tag-network.js"</span>&gt;&lt;/<span style="color: #006699;">script</span>&gt;
+     &lt;/<span style="color: #006699;">div</span>&gt;
+</pre>
+</div>
+
+<p>
+You can embed the tag network anywhere on your Jekyll blog.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org559cd11" class="outline-2">
+<h2 id="org559cd11">Conclusions</h2>
+<div class="outline-text-2" id="text-org559cd11">
+<p>
+I have been thinking about <a href="https://en.wikipedia.org/wiki/Connectivism">connectivism</a> as a means of representing knowledge,
+and encoding information. I have implemented a tag network for this blog to
+test this idea. The <a href="/tags">tag network</a> represents the
+topic connectivity of this blog. At a glance you can see what topics are
+covered by this blog, how much information about that topic exists, and how to
+extend your learning to other topics using this blog.
+</p>
+
+<p>
+As the author of this blog I can use the emergence of clusters in the tag
+network as an indicator of concepts that I am covering strongly. I can also
+use it as a tool to make me cognisant of the knowledge I contain and publish
+publicly. Unlike in nuclear physics where the universe defines the connections
+between nuclei, I have control over myself and can use the tag network for
+self improvement.
+</p>
+
+<p>
+I am impressed by how information rich the tag network is and have intentions
+of applying it in my research of nuclear physics.
+</p>
+</div>
+</div>

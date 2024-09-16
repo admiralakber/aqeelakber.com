@@ -1,0 +1,18 @@
+#+TITLE: "Ah," said the cat,
+#+DATE: 2024-09-16
+#+SETUPFILE: ~/blog/src/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:
+#+JEKYLL_TAGS: musings
+#+JEKYLL_PUBLISHED: true
+#+lastmod: [2024-09-16 Mon 20:45]
+
+Ah, said the cat,
+
+#+begin_export html
+<iframe width="100%" height="240" src="https://www.youtube-nocookie.com/embed/zl3xoKrgabY?si=g76kVq7Gd5hLEgbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+how I wished I had shared my experiences between my last posts and now.
+
+Well now, this is not too hard to repair. I'll share from here, and as I do, the wisdoms I've learned will be scattered among the words.
