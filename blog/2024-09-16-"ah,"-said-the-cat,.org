@@ -3,9 +3,9 @@
 #+SETUPFILE: ~/blog/src/setupfile.org
 #+JEKYLL_LAYOUT: post
 #+JEKYLL_CATEGORIES:
-#+JEKYLL_TAGS: musings
+#+JEKYLL_TAGS: musings beauty
 #+JEKYLL_PUBLISHED: true
-#+lastmod: [2024-09-16 Mon 20:45]
+#+lastmod: [2024-09-16 Mon 20:50]
 
 Ah, said the cat,
 
