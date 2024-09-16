@@ -50,21 +50,15 @@ title: "Aqeel Akber, I'm a person."
   </p>
 
   <br>
-  <h1>Blog</h1>
-  <h2>Connectivity</h2>
-  <a href="/tags"><h4>Posts by tag</h4></a>
-  <div name="tagnet" class="svg-container">
-      <svg width="600" height="300" class="svg-content-responsive"></svg>
-      <script src="https://d3js.org/d3.v4.min.js"></script>
-      <script src="/js/tag-network.js"></script>
-  </div>
-  <h2>Posts by date</h2>
+  <h1>Documents</h1>
   <ul style="list-style-type: none;">
     {% for post in site.posts %}
     <li>
       <strong>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></strong><br>
-      {% if post.tags %}<span style="font-variant: small-caps;"><i class="fa fa-tags" style="font-size: 0.7em;" aria-hidden="true"></i> {% for tag in post.tags %}<a href="/tags#{{ tag }}">{{ tag }}</a> {% endfor %}</span>{% endif %}
-      <br/>
+      {% if post.tags %}<span style="font-variant: small-caps;"><i class="fa fa-tags" style="font-size: 0.7em;" aria-hidden="true"></i> {% for tag in post.tags %}<a href="/tags#{{ tag }}">{{ tag }}</a> {% endfor %}</span>{% endif %}<br/>
+      {% if post.lastmod  %}
+        <span style="font-variant: small-caps;">(Modified: {{ post.lastmod | replace: "[", "" | replace: "]", "" | date: "%-d %b %Y" }})</span><br/>
+      {% endif  %}
       {{ post.content | strip_html | truncatewords: 50 }}
     </li>
     {% endfor %}
