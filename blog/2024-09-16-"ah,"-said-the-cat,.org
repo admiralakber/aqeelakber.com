@@ -5,7 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: musings beauty
 #+JEKYLL_PUBLISHED: true
-#+lastmod: [2024-09-16 Mon 20:50]
+#+lastmod: [2024-09-16 Mon 21:22]
 
 Ah, said the cat,
 
