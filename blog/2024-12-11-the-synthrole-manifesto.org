@@ -5,7 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: musings ai business
 #+JEKYLL_PUBLISHED: true
-#+lastmod: [2024-12-11 Wed 19:07]
+#+lastmod: [2024-12-12 Thu 05:11]
 
 * Personal Journey and Context
 
@@ -17,7 +17,7 @@ Machine learning was different. It was already booming, and I could seehow it co
 
 At Thaum, I learned to align my scientific lens with a business perspective. After five years, I moved on to [[https://dsq.studio][dsq.studio]]—a space for my projects and consulting. At dsq, I certainly have no intention creating in "Yet Another AI Product" (YAAP). We'll revisit YAAPs another day, but I'll say this: they didn’t excite me, and I always follow my excitement. I wanted to start with scaling my productivity—to help people, build ventures, dive into research, and find time to enjoy the world.
 
-Scaling myself meant building tools. Equipped with my Larq bottle and the joy of large language models (LLMs), I began crafting systems for personal and professional use. LLMs have ignited a new era of software. Once you adopt this mindset, distractions fade, revealing opportunities. Recently, I’ve provided remarkable value to businesses with similar, thoughtful, lean LLM implementations—a skill born from experience and a love for crafting elegant solutions. This document shares my approach for leaders and developers alike to implement AI in their business today.
+Scaling myself meant building tools. Equipped with my Larq bottle and the joy of large language models (LLMs), I began crafting systems for personal and professional use. LLMs have ignited a new era of software. Once you adopt this mindset, distractions fade, revealing opportunities. Recently, I’ve provided remarkable value to businesses with similar, thoughtful, lean LLM implementations—a skill born from experience and a love for crafting elegant solutions. I've distilled my 7+ years of B2B AI consulting experience into a framework for leaders and developers to design and deploy valuable AI solutions that seamlessly integrate into their businesses, delivering immediate impact: Synthroles.
 
 * A Lean Framework
 
