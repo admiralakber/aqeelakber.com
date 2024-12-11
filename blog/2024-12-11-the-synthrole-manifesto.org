@@ -5,7 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: musings ai business
 #+JEKYLL_PUBLISHED: true
-#+lastmod: [2024-12-11 Wed 18:59]
+#+lastmod: [2024-12-11 Wed 19:07]
 
 * Personal Journey and Context
 
@@ -15,7 +15,7 @@ When I told people, "I'm doing my PhD in nuclear physics," they lit up with fasc
 
 Machine learning was different. It was already booming, and I could seehow it could help people today. That realisation motivated me to found Thaum in 2018, focusing on computer vision and data science. Running a business kept me from diving deeply into ML/AI, but I stayed engaged with the field, maintaining a scientist's curiosity.
 
-At Thaum, I learned to align my scientific lens with a business perspective. After five years, I moved on to dsq.studio—a space for my projects and consulting. At dsq, I certainly have no intention creating in "Yet Another AI Product" (YAAP). We'll revisit YAAPs another day, but I'll say this: they didn’t excite me, and I always follow my excitement. I wanted to start with scaling my productivity—to help people, build ventures, dive into research, and find time to enjoy the world.
+At Thaum, I learned to align my scientific lens with a business perspective. After five years, I moved on to [[https://dsq.studio][dsq.studio]]—a space for my projects and consulting. At dsq, I certainly have no intention creating in "Yet Another AI Product" (YAAP). We'll revisit YAAPs another day, but I'll say this: they didn’t excite me, and I always follow my excitement. I wanted to start with scaling my productivity—to help people, build ventures, dive into research, and find time to enjoy the world.
 
 Scaling myself meant building tools. Equipped with my Larq bottle and the joy of large language models (LLMs), I began crafting systems for personal and professional use. LLMs have ignited a new era of software. Once you adopt this mindset, distractions fade, revealing opportunities. Recently, I’ve provided remarkable value to businesses with similar, thoughtful, lean LLM implementations—a skill born from experience and a love for crafting elegant solutions. This document shares my approach for leaders and developers alike to implement AI in their business today.
 
