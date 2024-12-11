@@ -1,6 +1,7 @@
 ---
 title: "Visualise the knowledge contained on your blog with a tag network"
 date: 2018-09-23
+lastmod: 
 layout: post
 categories: 
 tags: 
@@ -27,9 +28,9 @@ connecting nuclei by a trend / behaviour. Turns out my thoughts on this topic
 align very closely with the relatively modern (2005) theory of learning called
 <a href="https://en.wikipedia.org/wiki/Connectivism">connectivism</a>.
 </p>
-<div id="outline-container-org5d4c714" class="outline-2">
-<h2 id="org5d4c714">Connecting nuclear physics and blogging</h2>
-<div class="outline-text-2" id="text-org5d4c714">
+<div id="outline-container-orgc2138e7" class="outline-2">
+<h2 id="orgc2138e7">Connecting nuclear physics and blogging</h2>
+<div class="outline-text-2" id="text-orgc2138e7">
 <p>
 The posts on this blog are like nuclei. The ideas they contain might be
 related to others by a topic. Much like how all the nuclei mid shell are well
@@ -45,9 +46,9 @@ tricked you into learning some nuclear physics.
 </p>
 </div>
 </div>
-<div id="outline-container-org25cc9b1" class="outline-2">
-<h2 id="org25cc9b1">The knowledge contained in this blog</h2>
-<div class="outline-text-2" id="text-org25cc9b1">
+<div id="outline-container-org4208b45" class="outline-2">
+<h2 id="org4208b45">The knowledge contained in this blog</h2>
+<div class="outline-text-2" id="text-org4208b45">
 <p>
 I wanted a way for me to keep track of the big picture that this blog is
 presenting to the internet for self preservation and improvement. There&rsquo;s no
@@ -81,9 +82,9 @@ connections are forced closer together. You can mouse over the nodes to see the
 posts associated with the topic.
 </p>
 </div>
-<div id="outline-container-org2930232" class="outline-3">
-<h3 id="org2930232">Generating the data with Jekyll Liquid</h3>
-<div class="outline-text-3" id="text-org2930232">
+<div id="outline-container-orgef00670" class="outline-3">
+<h3 id="orgef00670">Generating the data with Jekyll Liquid</h3>
+<div class="outline-text-3" id="text-orgef00670">
 <p>
 This blog is hosted <a href="https://github.com/admiralakber/admiralakber.github.io">GitHub</a> and compiled automatically when I push to the
 repository using Jekyll. I wrote a bit of liquid that iterates over tags and
@@ -95,9 +96,9 @@ Liquid code: <a href="https://github.com/admiralakber/admiralakber.github.io/blo
 </p>
 </div>
 </div>
-<div id="outline-container-org454c4f0" class="outline-3">
-<h3 id="org454c4f0">Generating the graph</h3>
-<div class="outline-text-3" id="text-org454c4f0">
+<div id="outline-container-orgf722334" class="outline-3">
+<h3 id="orgf722334">Generating the graph</h3>
+<div class="outline-text-3" id="text-orgf722334">
 <p>
 This is the combination of three D3.js examples by: <a href="https://bl.ocks.org/mbostock/4600693">Mike Bostock</a>, <a href="http://bl.ocks.org/d3noob/5141278">d3noob</a>, and
 <a href="https://bl.ocks.org/puzzler10/2531c035e8d514f125c4d15433f79d74">Tom Roth</a>.
@@ -108,37 +109,37 @@ JavaScript code: <a href="https://github.com/admiralakber/admiralakber.github.io
 </p>
 </div>
 </div>
-<div id="outline-container-orgd53767c" class="outline-3">
-<h3 id="orgd53767c">Embedding it in your blog</h3>
-<div class="outline-text-3" id="text-orgd53767c">
+<div id="outline-container-org452b17c" class="outline-3">
+<h3 id="org452b17c">Embedding it in your blog</h3>
+<div class="outline-text-3" id="text-org452b17c">
 <p>
 Save the code above in a folder <code>/js</code> on your webhost and with a little bit
 of styling:
 </p>
 
 <div class="org-src-container">
-<pre class="src src-css">     <span style="color: #0000ff; font-weight: bold;">.node</span> {
-         <span style="color: #00AA00;">stroke</span>: <span style="color: #ffffff; background-color: #000;">#000</span>;
-         <span style="color: #00AA00;">stroke-width</span>: 1px;
-     }
-
-     <span style="color: #0000ff; font-weight: bold;">.link</span> {
-         <span style="color: #00AA00;">fill</span>: none;
-         <span style="color: #00AA00;">stroke</span>: <span style="color: #ffffff; background-color: #000;">#000</span>;
-     }
-     <span style="color: #0000ff; font-weight: bold;">.svg-container</span> {
-         <span style="color: #00AA00;">display</span>: inline-block;
-         <span style="color: #00AA00;">position</span>: relative;
-         <span style="color: #00AA00;">width</span>: <span style="color: #D0372D;">100</span>%;
-         <span style="color: #00AA00;">vertical-align</span>: top;
-         <span style="color: #00AA00;">overflow</span>: hidden;
-     }
-     <span style="color: #0000ff; font-weight: bold;">svg.svg-content-responsive</span> {
-         <span style="color: #00AA00;">display</span>: block;
-         <span style="color: #00AA00;">margin</span>: auto;
-         <span style="color: #00AA00;">position</span>: relative;
-         <span style="color: #00AA00;">left</span>: <span style="color: #D0372D;">0</span>;
-     }
+<pre class="src src-css"><span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #0000ff; font-weight: bold;">.node</span> {
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">stroke</span>: <span style="color: #ffffff; background-color: #000;">#000</span>;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">stroke-width</span>: 1px;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>}
+     
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #0000ff; font-weight: bold;">.link</span> {
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">fill</span>: none;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">stroke</span>: <span style="color: #ffffff; background-color: #000;">#000</span>;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>}
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #0000ff; font-weight: bold;">.svg-container</span> {
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">display</span>: inline-block;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">position</span>: relative;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">width</span>: <span style="color: #D0372D;">100</span>%;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">vertical-align</span>: top;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">overflow</span>: hidden;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>}
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #0000ff; font-weight: bold;">svg.svg-content-responsive</span> {
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">display</span>: block;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">margin</span>: auto;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">position</span>: relative;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span><span style="color: #00AA00;">left</span>: <span style="color: #D0372D;">0</span>;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>}
 </pre>
 </div>
 
@@ -147,11 +148,11 @@ And a little HTML:
 </p>
 
 <div class="org-src-container">
-<pre class="src src-html">     &lt;<span style="color: #006699;">div</span> <span style="color: #BA36A5;">name</span>=<span style="color: #008000;">"tagnet"</span> <span style="color: #BA36A5;">class</span>=<span style="color: #008000;">"svg-container"</span>&gt;
-       &lt;<span style="color: #006699;">svg</span> <span style="color: #BA36A5;">width</span>=<span style="color: #008000;">"600"</span> <span style="color: #BA36A5;">height</span>=<span style="color: #008000;">"300"</span> <span style="color: #BA36A5;">class</span>=<span style="color: #008000;">"svg-content-responsive"</span>&gt;&lt;/<span style="color: #006699;">svg</span>&gt;
-       &lt;<span style="color: #006699;">script</span> <span style="color: #BA36A5;">src</span>=<span style="color: #008000;">"https://d3js.org/d3.v4.min.js"</span>&gt;&lt;/<span style="color: #006699;">script</span>&gt;
-       &lt;<span style="color: #006699;">script</span> <span style="color: #BA36A5;">src</span>=<span style="color: #008000;">"/js/tag-network.js"</span>&gt;&lt;/<span style="color: #006699;">script</span>&gt;
-     &lt;/<span style="color: #006699;">div</span>&gt;
+<pre class="src src-html"><span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>&lt;<span style="color: #006699;">div</span> <span style="color: #BA36A5;">name</span>=<span style="color: #008000;">"tagnet"</span> <span style="color: #BA36A5;">class</span>=<span style="color: #008000;">"svg-container"</span>&gt;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>  &lt;<span style="color: #006699;">svg</span> <span style="color: #BA36A5;">width</span>=<span style="color: #008000;">"600"</span> <span style="color: #BA36A5;">height</span>=<span style="color: #008000;">"300"</span> <span style="color: #BA36A5;">class</span>=<span style="color: #008000;">"svg-content-responsive"</span>&gt;&lt;/<span style="color: #006699;">svg</span>&gt;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>  &lt;<span style="color: #006699;">script</span> <span style="color: #BA36A5;">src</span>=<span style="color: #008000;">"https://d3js.org/d3.v4.min.js"</span>&gt;&lt;/<span style="color: #006699;">script</span>&gt;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>  &lt;<span style="color: #006699;">script</span> <span style="color: #BA36A5;">src</span>=<span style="color: #008000;">"/js/tag-network.js"</span>&gt;&lt;/<span style="color: #006699;">script</span>&gt;
+<span style="color: #cf5bcf5bcb84;"> </span>   <span style="color: #cf5bcf5bcb84;"> </span>&lt;/<span style="color: #006699;">div</span>&gt;
 </pre>
 </div>
 
@@ -161,9 +162,9 @@ You can embed the tag network anywhere on your Jekyll blog.
 </div>
 </div>
 </div>
-<div id="outline-container-org559cd11" class="outline-2">
-<h2 id="org559cd11">Conclusions</h2>
-<div class="outline-text-2" id="text-org559cd11">
+<div id="outline-container-orgde562f0" class="outline-2">
+<h2 id="orgde562f0">Conclusions</h2>
+<div class="outline-text-2" id="text-orgde562f0">
 <p>
 I have been thinking about <a href="https://en.wikipedia.org/wiki/Connectivism">connectivism</a> as a means of representing knowledge,
 and encoding information. I have implemented a tag network for this blog to

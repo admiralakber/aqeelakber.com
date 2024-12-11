@@ -1,0 +1,88 @@
+#+TITLE: The Synthrole Manifesto
+#+DATE: 2024-12-11
+#+SETUPFILE: ~/blog/src/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:
+#+JEKYLL_TAGS: musings ai business
+#+JEKYLL_PUBLISHED: true
+#+lastmod: [2024-12-11 Wed 18:59]
+
+* Personal Journey and Context
+
+The incredible boom in machine learning and AI pulled me away from physics. The release of the 1080Ti changed everything—it made neural networks cheaper, faster, and suddenly feasible for far more people. To me, this felt like the next cutting edge of science and technological progress. I wanted to be there.
+
+When I told people, "I'm doing my PhD in nuclear physics," they lit up with fascination. But my research wouldn't impact their lives for decades. I love explaining science, but I wasn't comfortable feeding excitement about applications that might not materialise.
+
+Machine learning was different. It was already booming, and I could seehow it could help people today. That realisation motivated me to found Thaum in 2018, focusing on computer vision and data science. Running a business kept me from diving deeply into ML/AI, but I stayed engaged with the field, maintaining a scientist's curiosity.
+
+At Thaum, I learned to align my scientific lens with a business perspective. After five years, I moved on to dsq.studio—a space for my projects and consulting. At dsq, I certainly have no intention creating in "Yet Another AI Product" (YAAP). We'll revisit YAAPs another day, but I'll say this: they didn’t excite me, and I always follow my excitement. I wanted to start with scaling my productivity—to help people, build ventures, dive into research, and find time to enjoy the world.
+
+Scaling myself meant building tools. Equipped with my Larq bottle and the joy of large language models (LLMs), I began crafting systems for personal and professional use. LLMs have ignited a new era of software. Once you adopt this mindset, distractions fade, revealing opportunities. Recently, I’ve provided remarkable value to businesses with similar, thoughtful, lean LLM implementations—a skill born from experience and a love for crafting elegant solutions. This document shares my approach for leaders and developers alike to implement AI in their business today.
+
+* A Lean Framework
+
+As I explored the possibilities that machine learning and AI opened up, I began to think about how these technologies could be implemented in a lean, effective way, not just for products but for the way businesses could operate. AI and machine learning are often framed as cutting-edge innovations—and they are. But just as often, their potential is clouded by overcomplicated systems and bloated solutions that miss the mark. I wanted to find a way to bring the power of AI down to a more usable, manageable level—a lean framework that could be immediately effective, scalable, and practical.
+
+A lot of businesses, especially those working with AI, tend to get caught up in complex solutions or theoretical constructs, often because they're chasing the allure of "big AI" without realising how simple and powerful AI can be when approached with a lean mindset. Instead of trying to develop the next all-encompassing system, why not focus on specific applications, tools, and capabilities that provide immediate value?
+
+The term "lean" has been used for decades in business to describe efficiency and minimalism, and it's something that I wanted to bring into my thinking about AI. A lean AI framework doesn't just focus on the “big picture”; it zeroes in on the actions that will directly move the needle for businesses, ensuring that AI augments what you already have, rather than trying to overhaul everything.
+
+This was the mindset that led to what I now call Synthroles: a way to rethink roles within businesses in a way that makes them leaner, smarter, and ultimately more productive. Synthroles are a tool for leaders to streamline their organisations by implementing AI in such a way that it fits seamlessly into existing processes, boosting productivity without introducing unnecessary complexity. This approach isn't about throwing everything out the window and starting from scratch. It's about augmenting what you already have, using AI as a powerful tool for efficiency and growth.
+
+By focusing on this lean mindset, I began to see how AI could be leveraged in a way that wasn't just about adopting new technologies but using them to create smarter workflows, less friction, and greater results. This is what led me to a crucial insight: that AI doesn't need to be a giant, intimidating beast of a system. It can be a series of small, impactful changes—changes that will transform businesses and roles without complicating everything in sight.
+
+* Moving Beyond YAAPs
+
+In the world of AI, there's a pervasive trend: Yet Another AI Product (YAAP). We've all seen it—every week, another flashy tool, another shiny new product claiming to solve some major problem with the magic of AI. But if you've been following the space long enough, you start to realise that most of these products are nothing more than band-aid solutions to today's problems. They're quick fixes that might provide a temporary boost, but they rarely deliver long-term, sustainable value, let alone a disruptive and competitive edge.
+
+The problem with YAAPs is that they're built with the assumption that AI is the solution to everything. But AI isn't a silver bullet. It's a tool—and just like any tool, its value is determined by how it's used. Too often, YAAPs are created with one-size-fits-all solutions in mind, without considering the unique needs of a business or a particular role. They're not tailored, and they don't fit into the existing workflow of an organisation.
+
+I've seen this play out first-hand in my own experience in the AI industry. The temptation to create the next big AI product, the next flashy app or platform, is real—and who can blame anyone for wanting to get in on the AI hype? But the reality is that many of these products are quickly outpaced by the next wave of technology, or they simply don't meet the needs of users in the way that was promised. This constant cycle of creating and abandoning YAAPs doesn't move us forward; it keeps us in a loop of shiny distractions to solve problems that don't exist, never really digging into the immense power of what could be.
+
+This is exactly where the concept of Synthroles comes in. Synthroles aren't about creating yet another AI product that promises the world and delivers little. They're not about introducing flashy, gimmicky tools that only add complexity. Instead, they're about rethinking roles, reimagining how people work, and using AI to streamline processes and drive value in a way that's practical, immediate, and sustainable—which is what I will introduce to you today.
+
+By adopting a lean mindset and focusing on the value AI can bring to individual roles, businesses can stop wasting time on YAAPs and start building systems that are both scalable and sustainable. This shift is key: it's not about piling on more AI products or features, it's about implementing AI in a way that directly benefits the workflow of the people involved. It's about real value—not just more hype.
+
+What we need now is a shift in focus: from the constant churn of AI products to a more strategic approach—one that centres on the human aspect and how AI can fit into roles, not the other way around. This shift is the key to moving beyond the noise of YAAPs and creating something with lasting impact.
+
+* Introducing Synthroles
+
+Now that we've discussed the pitfalls of Yet Another AI Product (YAAP), let's turn our attention to something more meaningful: Synthroles.
+
+A Synthrole is not a traditional role with a sprinkle of AI, nor is it a completely automated job run by an AI. A Synthrole is a reimagined role where human capabilities and AI functionalities seamlessly merge to create a new, more efficient form of work. It's where we leverage AI's strengths to amplify human potential, not replace it. The synthesis comes from understanding how AI can augment existing workflows, handle repetitive tasks, and enable the human element to focus on creativity, problem-solving, and value-driven decision-making.
+
+The key to Synthroles lies in how we design them. They don't emerge from a vacuum, nor are they created with the assumption that AI can do everything. Instead, Synthroles are built by understanding the human element of a role first—the skills, the tasks, the objectives—and then considering how AI can enhance or automate parts of that role. Similar to job crafting, ask, given the new era of software: how can we help our staff achieve more than they imagined? With more joy? With more alacrity? This requires a new mindset: rather than seeing AI as a tool to replace jobs and responsibilities, we should see it as a partner that can make our work more efficient, more focused, and more impactful.
+
+The beauty of Synthroles is their adaptability. They're not a one-size-fits-all solution. Each Synthrole is tailored to the specific needs of the role it's designed for, meaning that businesses can create roles that evolve with their needs, rather than being locked into a mode of operation enforced by "yet another SaaS product". The flexibility and scalability of Synthroles enable businesses to keep up with the fast pace of technological change while maintaining a human-centric approach to work.
+
+Synthroles represent a new form of role design, where the technology isn't just bolted on but is embedded at the core of the role itself. The promise of Synthroles isn't about AI for AI's sake—it's about creating roles that leverage the full potential of both human and machine to achieve far greater outcomes than either could on their own. This is the future of work, where the combination of human intelligence and AI creates a more productive, creative, and fulfilling environment for everyone involved.
+
+This approach isn't just theoretical. It's something that can be implemented today. In fact, the simplicity of Synthroles makes them an ideal first step for businesses that want to adopt AI but are unsure where to begin. By focusing on existing roles and understanding where AI can add value, businesses can start small and scale quickly—without the risk and complexity of trying to build a completely new AI product or system. This is a lean, practical framework for integrating AI into businesses, one that doesn't require a massive overhaul or the creation of complex, unproven technologies. Instead, it's about focusing on what works and building on it.
+
+* The Emergence of AI Stewards and Synthrole Managers
+
+As the concept of Synthroles takes shape, I hypothesise a new category of professionals—AI Stewards or Synthrole Managers—could soon emerge. These individuals will be pivotal in managing and evolving the integration of AI into human workflows, ensuring that the balance between human input and AI augmentation is optimised. While still a hypothesis, the emergence of these roles represents the potential for a new class of professionals in a brand-new industry.
+
+An AI Steward or Synthrole Manager would play the critical role of ensuring that Synthroles—AI-enhanced roles designed to maximise productivity and creativity—are implemented effectively within organisations. These professionals would combine a deep understanding of AI technology with a nuanced grasp of business operations, acting as a bridge between the human workforce and the tools that augment it.
+
+In this emerging model, AI Stewards wouldn't just be technical and AI specialists; they would also need to understand the intricacies of human workflows and organisational needs. Their primary responsibility would be to identify opportunities for AI to support, rather than replace, human effort. They would work to ensure that AI doesn't just automate tasks, but enhances the work of human teams, making processes more efficient and creativity more expansive.
+
+Importantly, AI Stewards would be responsible for ongoing optimisation. As AI tools evolve and business needs shift, the role of the AI Steward would be to continually assess and recalibrate the Synthroles, ensuring that the synergy between human and machine remains fluid and productive. This isn't just about implementing AI once—it's about managing a dynamic, evolving system that requires regular updates and adjustments.
+
+While this concept remains in its early stages, it's clear that the demand for professionals capable of managing AI-human collaboration will only grow. The role of the AI Steward or Synthrole Manager could, in fact, give rise to an entirely new industry—one focused on the intersection of human potential and AI.
+
+The emergence of these roles is an exciting possibility. As AI becomes more integrated into the workforce, businesses will need leaders who can guide the development, implementation, and management of AI-powered systems. These professionals would help ensure that AI enhances the human experience, rather than replacing it, and they would shape the future of work itself.
+
+AI Stewards and Synthrole Managers represent a form of middle management that could be efficiently provided, alongside the development of relevant tools, by businesses specialising exclusively in delivering this B2B service.
+
+If this hypothesis becomes a reality, it could represent one of the most exciting opportunities of our time—the chance to lead in a rapidly growing field where the lines between AI, human potential, and business efficiency are not only blurred but reshaped.
+
+* The Future of Synthroles and Why You Should Care
+
+The concept of Synthroles is not just about redefining roles in the workplace—it's about fundamentally reshaping the way we think about work, productivity, and the relationship between humans and technology. Synthroles provide a framework for integrating AI into workflows in a way that empowers people, rather than replacing them, creating a future where humans and machines amplify each other's strengths.
+
+Leaders who embrace this mindset early will have a significant advantage. By adopting Synthroles now, businesses can build a foundation for long-term growth, creating workflows that are more adaptable, scalable, and resilient to technological change. This isn't just about staying competitive in the short term; it's about positioning yourself for a future where AI is deeply embedded in every aspect of work. The organisations that succeed will be those that can harness this synergy between human insight and AI augmentation effectively.
+
+More exciting still is the potential for a new industry to emerge around Synthroles. With the growing complexity of AI systems and the need for thoughtful integration, we could see the rise of Synthrole Managers or AI Stewards as indispensable roles in the workforce. These professionals will be tasked with creating, refining, and optimising Synthroles across organisations. They will ensure that the balance between AI augmentation and human input is carefully maintained, driving not just efficiency but innovation.
+
+Synthroles aren't just a response to the growing influence of AI—they're a way to unlock its full potential in a practical, human-centred way. They provide a clear path for businesses to embrace AI today, not by overhauling everything, but by enhancing what already works. Leaders who embrace Synthroles will be the pioneers who discover and demonstrate how to synthesise with AI—and the transformative outcomes that synergy enables.
