@@ -1,0 +1,39 @@
+#+TITLE: Beyond Wisdom - Human and artificial intelligences
+#+DATE: 2025-07-08
+#+SETUPFILE: ~/blog/src/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:
+#+JEKYLL_TAGS: presentation ai business government musings
+#+JEKYLL_PUBLISHED: true
+
+I was invited to be the opening keynote speaker of the "AI in Government"
+conference held at the QT Canberra, Australia held 24-25 July 2025.
+
+In this talk, under the veil of "The role of AI in modern work", I actually
+share what I consider one of my most valuable pieces of intellectual property -
+something I've held onto for years - and it is in fact a philosophy.
+
+I speak about my extension to the [[https://en.wikipedia.org/wiki/DIKW_pyramid][DIKW pyramid]], not only going Beyond Wisdom,
+but also talking about what we do with it. I talk about the very nature of what
+intelligence is.
+
+This is a valuable framework for anyone working with artificial intelligence to
+understand ways we can (1) best collaborate with artificial intelligence, (2)
+understand artificial intelligence as an enabling technology.
+
+The talk opening also includes a call to action to act and do something good
+with AI for the public ASAP citing the cultural legacy we have gained around
+nuclear power due to the disruptive technology starting the atomic era being
+weaponised for harm before we had a chance to win the public's trust, and
+rightfully so.
+
+Finally, I introduce how I use and apply this thinking in my latest venture:
+[[https://usemeos.com][meos]]. Artificial Intelligence starts the Knowledge Era. We can now move
+knowledge around like we move information. We have built the kernel to an AI
+operating system. We have the SDK. Our first application on top of it is notes.
+
+Enjoy and as always feel free to reach out.
+
+#+begin_export html
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ylVT2Ferlt0?si=2uRvteuKc6Mbxwwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
