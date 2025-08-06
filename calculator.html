@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Community Space – Event Cost Calculator</title>
+<style>
+  body{font-family:Arial,sans-serif;background:#f5f7fa;color:#333;margin:2rem}
+  h1{color:#2c3e50}
+  .section{background:#fff;padding:1.5rem;margin-bottom:1.5rem;border-radius:6px;box-shadow:0 2px 4px rgba(0,0,0,0.1)}
+  .section h2{margin-top:0;color:#34495e}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem}
+  label{display:block;font-weight:600;margin-bottom:0.3rem}
+  input[type=number]{width:100%;padding:0.4rem;border:1px solid #ccc;border-radius:4px}
+  .output{font-size:1.2rem;background:#e8f4fc;padding:1rem;border-left:4px solid #3498db;border-radius:4px}
+  button{padding:0.6rem 1.2rem;background:#3498db;color:#fff;border:none;border-radius:4px;cursor:pointer;margin-top:0.5rem}
+  button:hover{background:#2980b9}
+  footer{margin-top:2rem;font-size:.85rem;color:#555;text-align:center}
+</style>
+</head>
+<body>
+<h1>Event Cost Calculator</h1>
+
+<div class="section">
+  <h2>Parameters</h2>
+  <div class="grid">
+    <div>
+      <label for="baseCost">Base cost (staff & setup) $</label>
+      <input type="number" id="baseCost" min="0" step="0.01" value="100">
+    </div>
+    <div>
+      <label for="perPersonCost">Per‑person cost $</label>
+      <input type="number" id="perPersonCost" min="0" step="0.01" value="5">
+    </div>
+    <div>
+      <label for="minAttendees">Threshold for low attendance people</label>
+      <input type="number" id="minAttendees" min="1" step="1" value="20">
+    </div>
+    <div>
+      <label for="ticketPrice">Ticket price (when using share) $</label>
+      <input type="number" id="ticketPrice" min="0" step="0.01" value="20">
+    </div>
+    <div>
+      <label for="sharePct">Share of ticket revenue % (for low attendance)</label>
+      <input type="number" id="sharePct" min="0" max="100" step="0.1" value="10">
+    </div>
+    <div>
+      <label for="capPerPerson">Maximum per‑person cost for very large events $ (optional)</label>
+      <input type="number" id="capPerPerson" min="0" step="0.01" placeholder="e.g., 3">
+    </div>
+    <div>
+      <label for="attendees">Number of attendees people</label>
+      <input type="number" id="attendees" min="0" step="1" value="30">
+    </div>
+  </div>
+  <button id="calcBtn">Calculate</button>
+</div>
+
+<div class="section">
+  <h2>Result</h2>
+  <div class="output" id="result">Enter values and press “Calculate”.</div>
+</div>
+
+<footer>
+  Built for the local community events space – all calculations run client‑side, no external assets required.
+</footer>
+
+<script type="module">
+  // Helper – format number as currency
+  const fmt = n => `$${n.toFixed(2)}`;
+
+  const calcBtn = document.getElementById('calcBtn');
+  const resultDiv = document.getElementById('result');
+
+  calcBtn.addEventListener('click', () => {
+    // Grab all inputs
+    const baseCost = +document.getElementById('baseCost').value || 0;
+    const perPersonCost = +document.getElementById('perPersonCost').value || 0;
+    const minAttendees = +document.getElementById('minAttendees').value || 0;
+    const ticketPrice = +document.getElementById('ticketPrice').value || 0;
+    const sharePct = +document.getElementById('sharePct').value || 0;
+    const capPerPerson = document.getElementById('capPerPerson').value;
+    const cap = capPerPerson ? +capPerPerson : null;
+    const attendees = +document.getElementById('attendees').value || 0;
+
+    // Core logic
+    let attendeeCharge;
+    if (attendees <= minAttendees && attendees > 0) {
+      // Low attendance – use share of ticket revenue
+      attendeeCharge = (ticketPrice * attendees) * (sharePct / 100);
+    } else {
+      // Normal or large attendance – per‑person cost
+      const effectivePerPerson = (cap !== null && attendees > minAttendees) ? Math.min(perPersonCost, cap) : perPersonCost;
+      attendeeCharge = effectivePerPerson * attendees;
+    }
+
+    const total = baseCost + attendeeCharge;
+    const perPerson = attendees ? total / attendees : 0;
+
+    // Build output
+    const lines = [
+      `<strong>Total cost:</strong> ${fmt(total)}`,
+      `<strong>Cost per attendee:</strong> ${fmt(perPerson)}`,
+      `<hr>`,
+      `<em>Break‑down:</em>`,
+      `Base cost                ${fmt(baseCost)}`,
+      `Attendee charge   ${fmt(attendeeCharge)} (${attendees} people)`,
+      attendees <= minAttendees
+        ? `&nbsp;&nbsp;✔ Using ${sharePct}% of ticket revenue (Ticket $${ticketPrice})`
+        : `&nbsp;&nbsp;✔ Using per‑person rate ${cap !== null ? `(capped at $${cap})` : ''}`
+    ].join('<br>');
+
+    resultDiv.innerHTML = lines;
+  });
+</script>
+</body>
+</html>
