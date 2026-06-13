@@ -43,7 +43,7 @@ this project.
 
 * Commit Transparency
 
-Hosting on GitLab provides transparency. You may observe the commit
+Hosting on GitHub provides transparency. You may observe the commit
 history. Keep me honest.
 
 * Org files

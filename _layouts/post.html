@@ -20,7 +20,7 @@ layout: default
             {% if page.lastmod  %}
             <p style="font-style: italic;">Last modified: {{ page.lastmod | replace: "[", "" | replace: "]", "" | date: "%-d %b %Y %H:%M" }}</p>
             {% endif  %}
-            <a href=https://gitlab.com/admiralakber/aqeelakber.com/-/commits/main/{{ page.path }} style="font-style: italic;">Full Document History</a>
+            <a href=https://github.com/admiralakber/aqeelakber.com/commits/main/{{ page.path }} style="font-style: italic;">Full Document History</a>
             {% if page.tags %}<p style="font-variant: small-caps;"><i class="fa fa-tags" style="font-size: 0.7em;" aria-hidden="true"></i> {% for tag in page.tags %}<a href="/tags#{{ tag }}">{{ tag }}</a> {% endfor %}</p>{% endif %}
         </header>
         <br>
