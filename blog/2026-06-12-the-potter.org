@@ -1,4 +1,4 @@
-#+TITLE: The Extravaganza EP 1: The Potter
+#+TITLE: The Extravaganza EP 001 - The Potter
 #+DATE: 2026-06-12
 #+SETUPFILE: ~/blog/src/setupfile.org
 #+JEKYLL_LAYOUT: post
