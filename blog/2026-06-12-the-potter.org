@@ -1,0 +1,15 @@
+#+TITLE: The Extravaganza EP 1: The Potter
+#+DATE: 2026-06-12
+#+SETUPFILE: ~/blog/src/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES:
+#+JEKYLL_TAGS: extravaganza podcast youtube
+#+JEKYLL_PUBLISHED: true
+
+The Potter — a conversation with ceramic artist Daniel Leone (IG: @danielleone_art), featuring Miranda Chilver (IG: @enquicken.wellbeing). The Aqeel Akber Extra Extra Extravaganza, made by Aqeel in Canberra.
+
+Watch the full episode below — also on the podcast feed wherever you listen.
+
+#+begin_export html
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/07Bh333WMHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
