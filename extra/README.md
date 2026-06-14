@@ -6,8 +6,8 @@ Redirect pages live in `extra/` (Jekyll `redirect` layout — same pattern as `x
 |-----------|-------------|
 | `/extra/ep1` | `/blog/2026-06-12-the-potter.html` |
 | `/extra/bt1` | `/blog/2026-06-13-artificial-life.html` |
-| `/extra/ep2` | `/blog/2026-06-13-emerging-technology.html` *(post not drafted yet)* |
-| `/extra/bt2` | `/blog/2026-06-13-meos-constellation.html` *(post not drafted yet)* |
+| `/extra/ep2` | `/blog/2026-06-13-emerging-technology.html` |
+| `/extra/bt2` | `/blog/2026-06-13-meos-constellation.html` |
 
 EP2/BT2 targets follow `publish:blog` filename rules (`YYYY-MM-DD-{title-slug}.html`).
 Verify or update `redirect_url` after org-octopress generates the real `_posts/` HTML.
