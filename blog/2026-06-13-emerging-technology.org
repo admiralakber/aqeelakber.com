@@ -17,481 +17,1907 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 #+begin_export html
 <details>
 <summary>Read the transcript</summary>
-<p>This is episode two. Hey, cheers. Cheers. May, how do you get people to do what's good for them?</p>
-<p>Ah, do people want to do what's good for them? Do you do what's good for you? Occasionally. Occasionally?</p>
-<p>Thank you. Personally, I feel like I've got a, like, an internal algorithm, which is always doing quite a lot Of, like, prioritisation work. So I'm doing what's good for me, but I've convinced myself through my, like, own internal compass as</p>
-<p>Well. I've convinced myself as to why and what and how this thing is going to be good for Me. How do you trust that that's calibrated?</p>
-<p>My gut tells me. Oh, yeah. And I'm still around. Yeah.</p>
-<p>She's still alive. You know, the reason I ask, right, is we have an idealistic product. Right? Yes, we do.</p>
-<p>Yes. Tell me more. Mm-hmm. So, we create a product.</p>
-<p>Mm-hmm. We create a app called Mios, like, me operating system, and to the point of this conversation, how Do we do the things that are good for us, it's about me, me as an operating system .</p>
-<p>What do I care about? How can I prioritise myself? How can I make myself do what I want? So, we've embedded a lot of...</p>
-<p>Mm-hmm. ... Design decisions in order to prioritise you. Yeah.</p>
-<p>And maybe the question is not how do you make people do what's good for them, but why Have they stopped doing what's good for them? Mm-hmm. I think we have that, like, gut feel.</p>
-<p>Of, like, I'm not doing the right thing right now, and I'm being, like, a little bit way Laid. Yeah. And it's typically due to hijacking.</p>
-<p>Hijacking. Hijacking the limbic system. Right. Especially with technology.</p>
-<p>Especially with, like, social media. I think... That's why we've got blockers and all that sort of stuff. Absolutely.</p>
-<p>Yeah. Yeah. I think of, like, the little scroll, like, the scroll that we just kind of come up with .</p>
-<p>Yeah. Yeah. That's why we've got blockers and all that sort of stuff. Absolutely.</p>
-<p>Yeah. I think of, like, the little scroll, like, the scroll that we just come up with. Yeah. That's why we've got blockers and all that sort of stuff.</p>
-<p>Absolutely. Yeah. I think of, like, the little scroll, like, the scroll that we just kind of, like, default to .</p>
-<p>It was very fun back in the day, like, when we started using these things, but now it Feels like a little digital cigarette. You're like... A digital cigarette?</p>
-<p>Yeah. Yeah. Yeah. Yeah.</p>
-<p>Hmm. Yeah. That's... That hits real.</p>
-<p>Yeah. Yeah. I suppose we do, like... I don't know.</p>
-<p>Yeah. Yeah. That gut feeling. People are driven to delete social media.</p>
-<p>They're driven to listen to stupid conversations like this on the internet. Rather than themselves. I think, like, it's a fascinating shift in relationship with social media to delete it entirely. You know, we gain so much.</p>
-<p>We do gain a lot of... Yeah. We gain a lot of, like, intelligence and insight and understand what's going on. You can...</p>
-<p>It's kind of like talking about what happened at the game on the weekend. Like, let's talk about the newest meme. Yeah. Yeah.</p>
-<p>Like, to remove yourself off of social media is ludicrous. It's part of what makes our community. But it also is ludicrous. It's literally engineered in order to take your attention and drain you.</p>
-<p>I suppose there's a difference between conscious consumption versus unconscious consumption, though. Right? And what you're talking about where it's, like, good and how it can gain benefits, surely, there's an Element of...</p>
-<p>Yeah. Yeah. Yeah. Yeah.</p>
-<p>Yeah. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.</p>
-<p>I think that's a good point. I think that's a good point. Alright, so past this, we get to our flagship models, GPT-40, GPT-5. 2, Claude Slotin 4.</p>
-<p>6, Opus, like Claude Opus 4. 7, Opus 4. 8, which was launched very recently, and then the most expensive model, GPT-5. 5.</p>
-<p>I know. Yeah. So I want to start with the important fact that GPT-40 was on there. Mm-hmm.</p>
-<p>Tell me. That's an old model. It's a model that you can't get on ChatGPT anymore. If you buy ChatGPT, you can't use GPT-40 anymore.</p>
-<p>And why do we want to use 4. 0? 4. 0 is not a thinking model.</p>
-<p>It's evolved to be a bit different. They kept doing the 3. 0. They started doing the post training on reinforcement learning with human feedback.</p>
-<p>It started feeling and getting really smart out of that aspect. It had its troubles and issues in that it started getting very sycophantic. You can totally drive it to be whatever the hell you want. You can make it, it's really good for role playing.</p>
-<p>That's where like the whole, like, you know, GPT-40 was my husband. Yes. Or wife and people getting married to them. All that stuff that you probably have heard of and remember, that was people using GPT-40.</p>
-<p>Yeah. And when OpenAI removed it, there's just was like so much loss and pain, I guess, for those People. And they're always like, bring back 4.</p>
-<p>0. We want something that feels human, blah, blah, blah, this and that, et cetera. I included it there because I believe we're adults. And I believe that education and as long as we've got awareness that we shouldn't moralize or judge</p>
-<p>And let people use things that they make some feel good. That's basically it. Yeah. Yes.</p>
-<p>And we do have this opinionation in MIOS where like, you're the one in control. Yeah. We give you the best. Yeah.</p>
-<p>And we care about your experience. Anything? Like, I don't know. Actually anything?</p>
-<p>Anything. Yes. Yes. Really actually over anything.</p>
-<p>The extent that we've gone to, to try and make this good. And like, I guess we're going to do that Done Right series. Yes. The Done Right series is, there's reasons why people haven't done this and yeah, we're just crazy enough</p>
-<p>To do it, hey? Yeah. Yeah. What's after 4.</p>
-<p>0? It's all of the flagships. So 5. 2, 4.</p>
-<p>7, 4. 8 and 5. 5. Yes.</p>
-<p>So I'm going to mention why 4. 7 and 4. 8 is there. Both of them.</p>
-<p>Yeah. The reason for that is 4. 7 is a slight enhancement over 4. 6, which was that unit step of intelligence compared to 4.</p>
-<p>5 and 4. 7 was more directed. Yeah. Yeah.</p>
-<p>And they added to what you say specifically. 4. 8 is all of that, but they added the behavior of it is less likely to lie to You.</p>
-<p>Okay. They, in fact, Anthropic, put a lot of effort into making sure that it is being honest. And you will see this in Opus 4. 8's thinking.</p>
-<p>It's like, I should be honest. I will do this thing, et cetera. It starts to say those words back to you more and more. Yeah.</p>
-<p>So it's very clear that they included in their post-training step from 4. 7 to 4. 8, that particular switch there. And again, we trust your judgment once you're educated to know what you can do and what you</p>
-<p>Want to use. Yeah. That's a lot of opinionation and difference in results between those two. Yeah.</p>
-<p>There's an element of choosing here to make it easy for everyone to just get going. Yeah. And then also, I just don't want to infantilize people. Absolutely.</p>
-<p>I believe that everyone has the ability to learn all this stuff. It's not that bad. No. So we just have a list of all the models, and we have a little description, which is</p>
-<p>Incredibly accurate. Yeah. So you just pick which one you want. And I guess if you're confused ever, you can message Mios001 from the Combox, and you'll actually be</p>
-<p>Able to talk to us. Yes. It's literally us. And we can actually give you our opinions.</p>
-<p>It's us. You will not talk to a chatbot. It is actually us. We might need to put a chatbot there at some point when we get busier, but we will</p>
-<p>Review all of it for sure. Just get it. And that bot will be trained by us, and it'll be able to help us. Yeah.</p>
-<p>But if you download it now, as in when we're posting this- Like right now? Like right now. You'll get us. While our food goes cold.</p>
-<p>Yeah. Yeah. All right. That was awesome.</p>
-<p>Thanks, mate. I wanted to talk about one more thing. Oh, you want to talk about one more thing? All right.</p>
-<p>One more thing. So you mentioned tool calling. Oh, yes. Yes.</p>
-<p>So what is that? So people may know that LLMs, they produce words, and they can now, I guess, see that it Starts to do web searches. A web search is a tool call, it calls an external server, or rather, more importantly, the L</p>
-<p>LM runs back in the system, and the system has to be able to see that that response Has run a function. Mm-hmm. And then that system then calls an external server to do a web search, it comes back and</p>
-<p>Spits it out. Mm-hmm. Like we should do a whole thing on MCP at some point as well. Okay.</p>
-<p>Machine copy paste. Sounds good. The tool calling that we have in MIOS and on the MIOS system, there are some unique tools That we've given it, and we've put a lot of effort into being able to make MIOS this</p>
-<p>Phone app. The reason why it's an operating system is that it's actually a whole application kernel, and it's AI Native. So the AI is able to read through your data box or have functions and tools that it</p>
-<p>Can go through there and synthesize all that sort of stuff. Yeah. So it's just like going ahead and finding the correct information for what you need at the time .</p>
-<p>That's right. It's like it knows how to use your... Yeah. ...</p>
-<p>Computer. Yeah. Think of it that way. Yeah.</p>
-<p>Like it knows how to run commands. It knows how to run the commands within MIOS. Mm-hmm. There's some really cool hyper-technical stuff about how we can extend that without sentience protocol and MCP and</p>
-<p>All that sort of stuff, where you can extend its capability of this brain, but tool calling ultimately Is the magic that allows things to be relevant and contextual to you so that the results are Much, much better, and you don't have to copy and paste context in. Yeah.</p>
-<p>Like memories are all handled. Yeah. It searches your memories for you. And I want to say importantly about MIOS is that the level of privacy in this compared to</p>
-<p>Anything else you're going to be using is probably unparalleled. All of the data is on your phone. They're all of our cloud providers we have zero data retention policies with. By default, you cannot get a provider from us.</p>
-<p>There's a reason why Grok isn't there. Because XAI don't provide zero data retention. So everything you use there, they're not retaining data at all, and not even for 30 days. All chat experiences do not delete your data.</p>
-<p>I looked into this. It's really scary. Yeah. The whole soft delete anyway, where it's like, "Maybe we deleted it."</p>
-<p>They actually have to hold onto it for legal reasons. The reason why you can use these models in zero data retention... Yes. ...</p>
-<p>Is that we're effectively providing what is enterprise level contracts for... Yes. ... You guys.</p>
-<p>Yes. The same with our web search. The web search on there is using Brave web search zero data retention. Yes.</p>
-<p>So all of these tool callings, all of these things, everything, going over your chats, all of that Is all private. Exactly. Yeah.</p>
-<p>And this is part of... Tool calling is part of the reason why we have OSS 120 billion feeling so much smarter. Mm-hmm. Mm-hmm.</p>
-<p>Because it gets the right contacts. Mm-hmm. Yeah. It just needs to know what you need, really.</p>
-<p>Yeah. Contracts. It just needs to know things. AI just needs to know things.</p>
-<p>You just got to have contacts. You have to tell it what it needs to know. Yeah. Yeah.</p>
-<p>So zero data retention, it's enterprise level contracts. Mm-hmm. Basically, we're just saying you deserve the best. Yeah.</p>
-<p>And if you're really nerdy, you can actually host something locally your own and put your own endpoint In. Oh, yeah. Yeah.</p>
-<p>You can. You can use your own... We support that as well. Yeah.</p>
-<p>You can use it in LLM if you want. Yeah. Yeah. Yeah.</p>
-<p>Anyway, we should eat. Hey. Yeah. This was fun.</p>
-<p>That was good. Cheers, mate.</p>
+<p>This is episode two.</p>
+<p>Hey, cheers.</p>
+<p>Cheers.</p>
+<p>May, how do you get people to do what's good for them?</p>
+<p>Ah, do people want to do what's good for them?</p>
+<p>Do you do what's good for you?</p>
+<p>Occasionally.</p>
+<p>Occasionally?</p>
+<p>Thank you.</p>
+<p>Personally, I feel like I've got a, like, an internal algorithm, which is always doing quite a lot</p>
+<p>Of, like, prioritisation work.</p>
+<p>So I'm doing what's good for me, but I've convinced myself through my, like, own internal compass as</p>
+<p>Well.</p>
+<p>I've convinced myself as to why and what and how this thing is going to be good for</p>
+<p>Me.</p>
+<p>How do you trust that that's calibrated?</p>
+<p>My gut tells me.</p>
+<p>Oh, yeah.</p>
+<p>And I'm still around.</p>
+<p>Yeah.</p>
+<p>She's still alive.</p>
+<p>You know, the reason I ask, right, is we have an idealistic product.</p>
+<p>Right?</p>
+<p>Yes, we do.</p>
+<p>Yes.</p>
+<p>Tell me more.</p>
+<p>Mm-hmm.</p>
+<p>So, we create a product.</p>
+<p>Mm-hmm.</p>
+<p>We create a app called Mios, like, me operating system, and to the point of this conversation, how</p>
+<p>Do we do the things that are good for us, it's about me, me as an operating system</p>
+<p>.</p>
+<p>What do I care about?</p>
+<p>How can I prioritise myself?</p>
+<p>How can I make myself do what I want?</p>
+<p>So, we've embedded a lot of...</p>
+<p>Mm-hmm.</p>
+<p>...</p>
+<p>Design decisions in order to prioritise you.</p>
+<p>Yeah.</p>
+<p>And maybe the question is not how do you make people do what's good for them, but why</p>
+<p>Have they stopped doing what's good for them?</p>
+<p>Mm-hmm.</p>
+<p>I think we have that, like, gut feel.</p>
+<p>Of, like, I'm not doing the right thing right now, and I'm being, like, a little bit way</p>
+<p>Laid.</p>
+<p>Yeah.</p>
+<p>And it's typically due to hijacking.</p>
+<p>Hijacking.</p>
+<p>Hijacking the limbic system.</p>
+<p>Right.</p>
+<p>Especially with technology.</p>
+<p>Especially with, like, social media.</p>
+<p>I think...</p>
+<p>That's why we've got blockers and all that sort of stuff.</p>
+<p>Absolutely.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>I think of, like, the little scroll, like, the scroll that we just kind of come up with</p>
+<p>.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>That's why we've got blockers and all that sort of stuff.</p>
+<p>Absolutely.</p>
+<p>Yeah.</p>
+<p>I think of, like, the little scroll, like, the scroll that we just come up with.</p>
+<p>Yeah.</p>
+<p>That's why we've got blockers and all that sort of stuff.</p>
+<p>Absolutely.</p>
+<p>Yeah.</p>
+<p>I think of, like, the little scroll, like, the scroll that we just kind of, like, default to</p>
+<p>.</p>
+<p>It was very fun back in the day, like, when we started using these things, but now it</p>
+<p>Feels like a little digital cigarette.</p>
+<p>You're like...</p>
+<p>A digital cigarette?</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Hmm.</p>
+<p>Yeah.</p>
+<p>That's...</p>
+<p>That hits real.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>I suppose we do, like...</p>
+<p>I don't know.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>That gut feeling.</p>
+<p>People are driven to delete social media.</p>
+<p>They're driven to listen to stupid conversations like this on the internet.</p>
+<p>Rather than themselves.</p>
+<p>I think, like, it's a fascinating shift in relationship with social media to delete it entirely.</p>
+<p>You know, we gain so much.</p>
+<p>We do gain a lot of...</p>
+<p>Yeah.</p>
+<p>We gain a lot of, like, intelligence and insight and understand what's going on.</p>
+<p>You can...</p>
+<p>It's kind of like talking about what happened at the game on the weekend.</p>
+<p>Like, let's talk about the newest meme.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Like, to remove yourself off of social media is ludicrous.</p>
+<p>It's part of what makes our community.</p>
+<p>But it also is ludicrous.</p>
+<p>It's literally engineered in order to take your attention and drain you.</p>
+<p>I suppose there's a difference between conscious consumption versus unconscious consumption, though.</p>
+<p>Right?</p>
+<p>And what you're talking about where it's, like, good and how it can gain benefits, surely, there's an</p>
+<p>Element of...</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>I think that's a good point.</p>
+<p>Alright, so past this, we get to our flagship models, GPT-40, GPT-5.</p>
+<p>2, Claude Slotin 4.</p>
+<p>6, Opus, like Claude Opus 4.</p>
+<p>7, Opus 4.</p>
+<p>8, which was launched very recently, and then the most expensive model, GPT-5.</p>
+<p>5.</p>
+<p>I know.</p>
+<p>Yeah.</p>
+<p>So I want to start with the important fact that GPT-40 was on there.</p>
+<p>Mm-hmm.</p>
+<p>Tell me.</p>
+<p>That's an old model.</p>
+<p>It's a model that you can't get on ChatGPT anymore.</p>
+<p>If you buy ChatGPT, you can't use GPT-40 anymore.</p>
+<p>And why do we want to use 4.</p>
+<p>0?</p>
+<p>4.</p>
+<p>0 is not a thinking model.</p>
+<p>It's evolved to be a bit different.</p>
+<p>They kept doing the 3.</p>
+<p>0.</p>
+<p>They started doing the post training on reinforcement learning with human feedback.</p>
+<p>It started feeling and getting really smart out of that aspect.</p>
+<p>It had its troubles and issues in that it started getting very sycophantic.</p>
+<p>You can totally drive it to be whatever the hell you want.</p>
+<p>You can make it, it's really good for role playing.</p>
+<p>That's where like the whole, like, you know, GPT-40 was my husband.</p>
+<p>Yes.</p>
+<p>Or wife and people getting married to them.</p>
+<p>All that stuff that you probably have heard of and remember, that was people using GPT-40.</p>
+<p>Yeah.</p>
+<p>And when OpenAI removed it, there's just was like so much loss and pain, I guess, for those</p>
+<p>People.</p>
+<p>And they're always like, bring back 4.</p>
+<p>0.</p>
+<p>We want something that feels human, blah, blah, blah, this and that, et cetera.</p>
+<p>I included it there because I believe we're adults.</p>
+<p>And I believe that education and as long as we've got awareness that we shouldn't moralize or judge</p>
+<p>And let people use things that they make some feel good.</p>
+<p>That's basically it.</p>
+<p>Yeah.</p>
+<p>Yes.</p>
+<p>And we do have this opinionation in MIOS where like, you're the one in control.</p>
+<p>Yeah.</p>
+<p>We give you the best.</p>
+<p>Yeah.</p>
+<p>And we care about your experience.</p>
+<p>Anything?</p>
+<p>Like, I don't know.</p>
+<p>Actually anything?</p>
+<p>Anything.</p>
+<p>Yes.</p>
+<p>Yes.</p>
+<p>Really actually over anything.</p>
+<p>The extent that we've gone to, to try and make this good.</p>
+<p>And like, I guess we're going to do that Done Right series.</p>
+<p>Yes.</p>
+<p>The Done Right series is, there's reasons why people haven't done this and yeah, we're just crazy enough</p>
+<p>To do it, hey?</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>What's after 4.</p>
+<p>0?</p>
+<p>It's all of the flagships.</p>
+<p>So 5.</p>
+<p>2, 4.</p>
+<p>7, 4.</p>
+<p>8 and 5.</p>
+<p>5.</p>
+<p>Yes.</p>
+<p>So I'm going to mention why 4.</p>
+<p>7 and 4.</p>
+<p>8 is there.</p>
+<p>Both of them.</p>
+<p>Yeah.</p>
+<p>The reason for that is 4.</p>
+<p>7 is a slight enhancement over 4.</p>
+<p>6, which was that unit step of intelligence compared to 4.</p>
+<p>5 and 4.</p>
+<p>7 was more directed.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>And they added to what you say specifically.</p>
+<p>4.</p>
+<p>8 is all of that, but they added the behavior of it is less likely to lie to</p>
+<p>You.</p>
+<p>Okay.</p>
+<p>They, in fact, Anthropic, put a lot of effort into making sure that it is being honest.</p>
+<p>And you will see this in Opus 4.</p>
+<p>8's thinking.</p>
+<p>It's like, I should be honest.</p>
+<p>I will do this thing, et cetera.</p>
+<p>It starts to say those words back to you more and more.</p>
+<p>Yeah.</p>
+<p>So it's very clear that they included in their post-training step from 4.</p>
+<p>7 to 4.</p>
+<p>8, that particular switch there.</p>
+<p>And again, we trust your judgment once you're educated to know what you can do and what you</p>
+<p>Want to use.</p>
+<p>Yeah.</p>
+<p>That's a lot of opinionation and difference in results between those two.</p>
+<p>Yeah.</p>
+<p>There's an element of choosing here to make it easy for everyone to just get going.</p>
+<p>Yeah.</p>
+<p>And then also, I just don't want to infantilize people.</p>
+<p>Absolutely.</p>
+<p>I believe that everyone has the ability to learn all this stuff.</p>
+<p>It's not that bad.</p>
+<p>No.</p>
+<p>So we just have a list of all the models, and we have a little description, which is</p>
+<p>Incredibly accurate.</p>
+<p>Yeah.</p>
+<p>So you just pick which one you want.</p>
+<p>And I guess if you're confused ever, you can message Mios001 from the Combox, and you'll actually be</p>
+<p>Able to talk to us.</p>
+<p>Yes.</p>
+<p>It's literally us.</p>
+<p>And we can actually give you our opinions.</p>
+<p>It's us.</p>
+<p>You will not talk to a chatbot.</p>
+<p>It is actually us.</p>
+<p>We might need to put a chatbot there at some point when we get busier, but we will</p>
+<p>Review all of it for sure.</p>
+<p>Just get it.</p>
+<p>And that bot will be trained by us, and it'll be able to help us.</p>
+<p>Yeah.</p>
+<p>But if you download it now, as in when we're posting this- Like right now?</p>
+<p>Like right now.</p>
+<p>You'll get us.</p>
+<p>While our food goes cold.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>All right.</p>
+<p>That was awesome.</p>
+<p>Thanks, mate.</p>
+<p>I wanted to talk about one more thing.</p>
+<p>Oh, you want to talk about one more thing?</p>
+<p>All right.</p>
+<p>One more thing.</p>
+<p>So you mentioned tool calling.</p>
+<p>Oh, yes.</p>
+<p>Yes.</p>
+<p>So what is that?</p>
+<p>So people may know that LLMs, they produce words, and they can now, I guess, see that it</p>
+<p>Starts to do web searches.</p>
+<p>A web search is a tool call, it calls an external server, or rather, more importantly, the L</p>
+<p>LM runs back in the system, and the system has to be able to see that that response</p>
+<p>Has run a function.</p>
+<p>Mm-hmm.</p>
+<p>And then that system then calls an external server to do a web search, it comes back and</p>
+<p>Spits it out.</p>
+<p>Mm-hmm.</p>
+<p>Like we should do a whole thing on MCP at some point as well.</p>
+<p>Okay.</p>
+<p>Machine copy paste.</p>
+<p>Sounds good.</p>
+<p>The tool calling that we have in MIOS and on the MIOS system, there are some unique tools</p>
+<p>That we've given it, and we've put a lot of effort into being able to make MIOS this</p>
+<p>Phone app.</p>
+<p>The reason why it's an operating system is that it's actually a whole application kernel, and it's AI</p>
+<p>Native.</p>
+<p>So the AI is able to read through your data box or have functions and tools that it</p>
+<p>Can go through there and synthesize all that sort of stuff.</p>
+<p>Yeah.</p>
+<p>So it's just like going ahead and finding the correct information for what you need at the time</p>
+<p>.</p>
+<p>That's right.</p>
+<p>It's like it knows how to use your...</p>
+<p>Yeah.</p>
+<p>...</p>
+<p>Computer.</p>
+<p>Yeah.</p>
+<p>Think of it that way.</p>
+<p>Yeah.</p>
+<p>Like it knows how to run commands.</p>
+<p>It knows how to run the commands within MIOS.</p>
+<p>Mm-hmm.</p>
+<p>There's some really cool hyper-technical stuff about how we can extend that without sentience protocol and MCP and</p>
+<p>All that sort of stuff, where you can extend its capability of this brain, but tool calling ultimately</p>
+<p>Is the magic that allows things to be relevant and contextual to you so that the results are</p>
+<p>Much, much better, and you don't have to copy and paste context in.</p>
+<p>Yeah.</p>
+<p>Like memories are all handled.</p>
+<p>Yeah.</p>
+<p>It searches your memories for you.</p>
+<p>And I want to say importantly about MIOS is that the level of privacy in this compared to</p>
+<p>Anything else you're going to be using is probably unparalleled.</p>
+<p>All of the data is on your phone.</p>
+<p>They're all of our cloud providers we have zero data retention policies with.</p>
+<p>By default, you cannot get a provider from us.</p>
+<p>There's a reason why Grok isn't there.</p>
+<p>Because XAI don't provide zero data retention.</p>
+<p>So everything you use there, they're not retaining data at all, and not even for 30 days.</p>
+<p>All chat experiences do not delete your data.</p>
+<p>I looked into this.</p>
+<p>It's really scary.</p>
+<p>Yeah.</p>
+<p>The whole soft delete anyway, where it's like, "Maybe we deleted it."</p>
+<p>They actually have to hold onto it for legal reasons.</p>
+<p>The reason why you can use these models in zero data retention...</p>
+<p>Yes.</p>
+<p>...</p>
+<p>Is that we're effectively providing what is enterprise level contracts for...</p>
+<p>Yes.</p>
+<p>...</p>
+<p>You guys.</p>
+<p>Yes.</p>
+<p>The same with our web search.</p>
+<p>The web search on there is using Brave web search zero data retention.</p>
+<p>Yes.</p>
+<p>So all of these tool callings, all of these things, everything, going over your chats, all of that</p>
+<p>Is all private.</p>
+<p>Exactly.</p>
+<p>Yeah.</p>
+<p>And this is part of...</p>
+<p>Tool calling is part of the reason why we have OSS 120 billion feeling so much smarter.</p>
+<p>Mm-hmm.</p>
+<p>Mm-hmm.</p>
+<p>Because it gets the right contacts.</p>
+<p>Mm-hmm.</p>
+<p>Yeah.</p>
+<p>It just needs to know what you need, really.</p>
+<p>Yeah.</p>
+<p>Contracts.</p>
+<p>It just needs to know things.</p>
+<p>AI just needs to know things.</p>
+<p>You just got to have contacts.</p>
+<p>You have to tell it what it needs to know.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>So zero data retention, it's enterprise level contracts.</p>
+<p>Mm-hmm.</p>
+<p>Basically, we're just saying you deserve the best.</p>
+<p>Yeah.</p>
+<p>And if you're really nerdy, you can actually host something locally your own and put your own endpoint</p>
+<p>In.</p>
+<p>Oh, yeah.</p>
+<p>Yeah.</p>
+<p>You can.</p>
+<p>You can use your own...</p>
+<p>We support that as well.</p>
+<p>Yeah.</p>
+<p>You can use it in LLM if you want.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Yeah.</p>
+<p>Anyway, we should eat.</p>
+<p>Hey.</p>
+<p>Yeah.</p>
+<p>This was fun.</p>
+<p>That was good.</p>
+<p>Cheers, mate.</p>
 </details>
 #+end_export
