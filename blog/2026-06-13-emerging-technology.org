@@ -16,387 +16,43 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 </div>
 #+end_export
 
-#+begin_teaser extravaganza
-# The facts
-- Mei Weng Brough-Smyth joins Aqeel at the Knox Cafe in Watson for episode two.
-- Cafe staff and Esther drop in with brief hellos during the recording.
-- Conversation opens on whether people actually want to do what is good for them.
-- The discussion turns to Meos and design choices aimed at putting the user first.
-- Later threads touch on attention, social feeds, privacy, and how tools retrieve context.
-# Between the facts
-The table talk moves from personal gut-checks and self-prioritisation into why good habits slip away under technology's pull. Product thinking sits beside everyday habits: blockers, scrolling, and the awkward question of whether leaving social platforms is sensible or extreme.
-# Beyond the facts
-A cafe conversation that treats the phone less as a gadget and more as something that rewires appetite. Care sits next to engineering: what it means to build software that defends attention rather than harvesting it.
-# Why you should listen
-The arc does not stay on philosophy; it walks through concrete choices in Meos, from limbic hijacking to tool calling and zero-retention privacy. Worth staying for how honest doubt and nerdy detail share the same bench.
-#+end_teaser
-
 #+begin_transcript extravaganza
 0:00	This is episode two. Hey, cheers. Cheers. May, how do you get people to do what's good for them? Ah, do people want to do what's good for them?
 0:22	Do you do what's good for you? Occasionally. Occasionally?
 0:30	Thank you. Personally, I feel like I've got a, like, an internal algorithm, which is always doing quite a lot Of, like, prioritisation work. So I'm doing what's good for me, but I've convinced myself through my, like, own internal compass as Well.
 1:00	I've convinced myself as to why and what and how this thing is going to be good for Me. How do you trust that that's calibrated? My gut tells me.
 1:12	Oh, yeah. And I'm still around. Yeah. She's still alive. You know, the reason I ask, right, is we have an idealistic product. Right? Yes, we do. Yes.
-1:26	Tell me more. Mm-hmm. So, we create a product. Mm-hmm. We create a app called Mios, like, me operating system, and to the point of this conversation, how Do we do the things that are good for us, it's about me, me as an operating system .
+1:26	Tell me more. Mm-hmm. So, we create a product We create a app called Mios, like, me operating system, and to the point of this conversation, how Do we do the things that are good for us, it's about me, me as an operating system .
 1:49	What do I care about? How can I prioritise myself? How can I make myself do what I want? So, we've embedded a lot of... Mm-hmm. ... Design decisions in order to prioritise you.
 2:04	Yeah. And maybe the question is not how do you make people do what's good for them, but why Have they stopped doing what's good for them? Mm-hmm.
 2:26	I think we have that, like, gut feel. Of, like, I'm not doing the right thing right now, and I'm being, like, a little bit way Laid. Yeah.
 2:34	And it's typically due to hijacking. Hijacking. Hijacking the limbic system. Right. Especially with technology. Especially with, like, social media. I think... That's why we've got blockers and all that sort of stuff.
-2:42	Absolutely. Yeah. Yeah. I think of, like, the little scroll, like, the scroll that we just kind of come up with . Yeah. Yeah. That's why we've got blockers and all that sort of stuff.
+2:42	Absolutely. Yeah. Yeah. I think of, like, the little scroll, like, the scroll that we just kind of come up with That's why we've got blockers and all that sort of stuff.
 2:49	Absolutely. Yeah. I think of, like, the little scroll, like, the scroll that we just come up with. Yeah. That's why we've got blockers and all that sort of stuff.
-2:54	Absolutely. Yeah. I think of, like, the little scroll, like, the scroll that we just kind of, like, default to . It was very fun back in the day, like, when we started using these things, but now it Feels like a little digital cigarette.
-3:07	You're like... A digital cigarette? Yeah. Yeah. Yeah. Yeah. Hmm. Yeah. That's... That hits real. Yeah. Yeah. I suppose we do, like... I don't know. Yeah. Yeah. That gut feeling.
-3:27	People are driven to delete social media. They're driven to listen to stupid conversations like this on the internet. Rather than themselves. I think, like, it's a fascinating shift in relationship with social media to delete it entirely.
+2:56	Absolutely. Yeah. I think of, like, the little scroll, like, the scroll that we just kind of, like, default to . It was very fun back in the day, like, when we started using these things, but now it Feels like a little digital cigarette.
+3:07	You're like... A digital cigarette? Yeah
+3:14	Yeah. Hmm. Yeah. That's... That hits real
+3:21	I suppose we do, like... I don't know
+3:25	That gut feeling. People are driven to delete social media. They're driven to listen to stupid conversations like this on the internet. Rather than themselves. I think, like, it's a fascinating shift in relationship with social media to delete it entirely.
 3:51	You know, we gain so much. We do gain a lot of... Yeah. We gain a lot of, like, intelligence and insight and understand what's going on. You can...
-4:00	It's kind of like talking about what happened at the game on the weekend. Like, let's talk about the newest meme. Yeah. Yeah. Like, to remove yourself off of social media is ludicrous.
-4:17	It's part of what makes our community. But it also is ludicrous. It's literally engineered in order to take your attention and drain you. I suppose there's a difference between conscious consumption versus unconscious consumption, though.
-4:42	Right? And what you're talking about where it's, like, good and how it can gain benefits, surely, there's an Element of... Yeah. Yeah. Yeah. Yeah. Yeah. I think that's a good point.
-4:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:12	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:17	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:37	I think that's a good point.
-5:46	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:51	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-5:56	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:01	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:06	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:11	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:16	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:21	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:26	I think that's a good point. I think that's a good point. I think that's a good point.
-6:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:42	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:47	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-6:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:12	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:17	I think that's a good point. I think that's a good point. I think that's a good point.
-7:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-7:48	I think that's a good point. I think that's a good point.
-7:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:18	I think that's a good point. I think that's a good point.
-8:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-8:48	I think that's a good point. I think that's a good point.
-8:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:18	I think that's a good point. I think that's a good point.
-9:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-9:48	I think that's a good point. I think that's a good point.
-9:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:18	I think that's a good point. I think that's a good point.
-10:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-10:48	I think that's a good point. I think that's a good point.
-10:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:18	I think that's a good point. I think that's a good point.
-11:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-11:48	I think that's a good point. I think that's a good point.
-11:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:18	I think that's a good point. I think that's a good point.
-12:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-12:48	I think that's a good point. I think that's a good point.
-12:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:18	I think that's a good point. I think that's a good point.
-13:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-13:48	I think that's a good point. I think that's a good point.
-13:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:18	I think that's a good point. I think that's a good point.
-14:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-14:48	I think that's a good point. I think that's a good point.
-14:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:18	I think that's a good point. I think that's a good point.
-15:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-15:48	I think that's a good point. I think that's a good point.
-15:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:18	I think that's a good point. I think that's a good point.
-16:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-16:48	I think that's a good point. I think that's a good point.
-16:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:18	I think that's a good point. I think that's a good point.
-17:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-17:48	I think that's a good point. I think that's a good point.
-17:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:18	I think that's a good point. I think that's a good point.
-18:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-18:48	I think that's a good point. I think that's a good point.
-18:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:18	I think that's a good point. I think that's a good point.
-19:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:38	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:43	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-19:48	I think that's a good point. I think that's a good point.
-19:58	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:03	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:08	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:13	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:18	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:23	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:28	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:33	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:38	I think that's a good point. I think that's a good point. I think that's a good point.
-20:49	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:54	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-20:59	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:04	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:09	I think that's a good point. I think that's a good point.
-21:19	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:24	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:29	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:34	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:39	I think that's a good point. I think that's a good point.
-21:49	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:54	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-21:59	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:04	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:09	I think that's a good point. I think that's a good point.
-22:19	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:24	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:29	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:34	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:39	I think that's a good point. I think that's a good point.
-22:49	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:54	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-22:59	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:04	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:09	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:14	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:19	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:24	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:29	I think that's a good point. I think that's a good point. I think that's a good point.
-23:40	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:45	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:50	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-23:55	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:00	I think that's a good point. I think that's a good point.
-24:10	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:15	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:20	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:25	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:30	I think that's a good point. I think that's a good point.
-24:40	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:45	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:50	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-24:55	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:00	I think that's a good point. I think that's a good point.
-25:10	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:15	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:20	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:25	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:30	I think that's a good point. I think that's a good point.
-25:40	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:45	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:50	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-25:55	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:00	I think that's a good point. I think that's a good point.
-26:10	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:15	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:20	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:25	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:30	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:35	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:40	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:45	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-26:50	I think that's a good point. I think that's a good point. I think that's a good point.
-27:01	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:06	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:11	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:16	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:21	I think that's a good point. I think that's a good point.
-27:31	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:36	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:41	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:46	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-27:51	I think that's a good point. I think that's a good point.
-28:01	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:06	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:11	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:16	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:21	I think that's a good point. I think that's a good point.
-28:31	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:36	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:41	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:46	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:51	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-28:56	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:01	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:06	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:11	I think that's a good point. I think that's a good point. I think that's a good point.
-29:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:42	I think that's a good point. I think that's a good point.
-29:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-29:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:12	I think that's a good point. I think that's a good point.
-30:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:42	I think that's a good point. I think that's a good point.
-30:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-30:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:12	I think that's a good point. I think that's a good point.
-31:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:42	I think that's a good point. I think that's a good point.
-31:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-31:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:12	I think that's a good point. I think that's a good point.
-32:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:42	I think that's a good point. I think that's a good point.
-32:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-32:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:12	I think that's a good point. I think that's a good point.
-33:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:42	I think that's a good point. I think that's a good point.
-33:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-33:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:12	I think that's a good point. I think that's a good point.
-34:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:42	I think that's a good point. I think that's a good point.
-34:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-34:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:12	I think that's a good point. I think that's a good point.
-35:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:42	I think that's a good point. I think that's a good point.
-35:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-35:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:12	I think that's a good point. I think that's a good point.
-36:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:42	I think that's a good point. I think that's a good point.
-36:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-36:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:12	I think that's a good point. I think that's a good point.
-37:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:42	I think that's a good point. I think that's a good point.
-37:52	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-37:57	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:02	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:07	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:12	I think that's a good point. I think that's a good point.
-38:22	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:27	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:32	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
-38:42	I think that's a good point. I think that's a good point.
-38:52	I think that's a good point. Alright, so past this, we get to our flagship models, GPT-40, GPT-5. 2, Claude Slotin 4. 6, Opus, like Claude Opus 4.
-39:08	7, Opus 4.8, which was launched very recently, and then the most expensive model, GPT-5. 5. I know. Yeah. So I want to start with the important fact that GPT-40 was on there.
-39:26	Mm-hmm. Tell me. That's an old model. It's a model that you can't get on ChatGPT anymore. If you buy ChatGPT, you can't use GPT-40 anymore. And why do we want to use 4.
+4:00	It's kind of like talking about what happened at the game on the weekend. Like, let's talk about the newest meme
+4:10	Like, to remove yourself off of social media is ludicrous. It's part of what makes our community. But it also is ludicrous. It's literally engineered in order to take your attention and drain you.
+4:32	I suppose there's a difference between conscious consumption versus unconscious consumption, though. Right? And what you're talking about where it's, like, good and how it can gain benefits, surely, there's an Element of...
+4:51	Yeah
+4:54	Yeah. Yeah. I think that's a good point
+6:08	A good point
+8:12	Point
+10:16	Point
+12:28	Point
+14:32	Point
+16:36	Point
+18:40	Point
+21:51	Point
+24:23	Point
+29:03	Point
+38:52	A good point. Alright, so past this, we get to our flagship models, GPT-40, GPT-5. 2, Claude Slotin 4. 6, Opus, like Claude Opus 4. 7, Opus 4.
+39:10	8, which was launched very recently, and then the most expensive model, GPT-5. 5. I know. Yeah. So I want to start with the important fact that GPT-40 was on there
+39:27	Tell me. That's an old model. It's a model that you can't get on ChatGPT anymore. If you buy ChatGPT, you can't use GPT-40 anymore. And why do we want to use 4.
 39:42	0? 4. 0 is not a thinking model. It's evolved to be a bit different. They kept doing the 3. 0. They started doing the post training on reinforcement learning with human feedback.
 39:56	It started feeling and getting really smart out of that aspect. It had its troubles and issues in that it started getting very sycophantic. You can totally drive it to be whatever the hell you want.
 40:13	You can make it, it's really good for role playing. That's where like the whole, like, you know, GPT-40 was my husband. Yes. Or wife and people getting married to them.
@@ -408,7 +64,8 @@ The arc does not stay on philosophy; it walks through concrete choices in Meos, 
 41:37	Yes. The Done Right series is, there's reasons why people haven't done this and yeah, we're just crazy enough To do it, hey? Yeah. Yeah. What's after 4.
 41:50	0? It's all of the flagships. So 5. 2, 4. 7, 4. 8 and 5. 5. Yes. So I'm going to mention why 4. 7 and 4. 8 is there.
 41:54	Both of them. Yeah. The reason for that is 4. 7 is a slight enhancement over 4. 6, which was that unit step of intelligence compared to 4.
-42:16	5 and 4. 7 was more directed. Yeah. Yeah. And they added to what you say specifically. 4. 8 is all of that, but they added the behavior of it is less likely to lie to You.
+42:16	5 and 4. 7 was more directed
+42:22	And they added to what you say specifically. 4. 8 is all of that, but they added the behavior of it is less likely to lie to You.
 42:34	Okay. They, in fact, Anthropic, put a lot of effort into making sure that it is being honest. And you will see this in Opus 4.8's thinking.
 42:44	It's like, I should be honest. I will do this thing, et cetera. It starts to say those words back to you more and more. Yeah. So it's very clear that they included in their post-training step from 4.
 42:54	7 to 4. 8, that particular switch there. And again, we trust your judgment once you're educated to know what you can do and what you Want to use.
@@ -418,24 +75,26 @@ The arc does not stay on philosophy; it walks through concrete choices in Meos, 
 43:29	And I guess if you're confused ever, you can message Mios001 from the Combox, and you'll actually be Able to talk to us. Yes. It's literally us. And we can actually give you our opinions.
 43:52	It's us. You will not talk to a chatbot. It is actually us. We might need to put a chatbot there at some point when we get busier, but we will Review all of it for sure.
 44:02	Just get it. And that bot will be trained by us, and it'll be able to help us. Yeah. But if you download it now, as in when we're posting this- Like right now?
-44:13	Like right now. You'll get us. While our food goes cold. Yeah. Yeah. All right. That was awesome. Thanks, mate. I wanted to talk about one more thing.
-44:23	Oh, you want to talk about one more thing? All right. One more thing. So you mentioned tool calling. Oh, yes. Yes. So what is that? So people may know that LLMs, they produce words, and they can now, I guess, see that it Starts to do web searches.
-44:41	A web search is a tool call, it calls an external server, or rather, more importantly, the L LM runs back in the system, and the system has to be able to see that that response Has run a function.
-44:54	Mm-hmm. And then that system then calls an external server to do a web search, it comes back and Spits it out. Mm-hmm. Like we should do a whole thing on MCP at some point as well.
+44:13	Like right now. You'll get us. While our food goes cold
+44:19	All right. That was awesome. Thanks, mate. I wanted to talk about one more thing. Oh, you want to talk about one more thing? All right. One more thing.
+44:26	So you mentioned tool calling. Oh, yes. Yes. So what is that? So people may know that LLMs, they produce words, and they can now, I guess, see that it Starts to do web searches.
+44:41	A web search is a tool call, it calls an external server, or rather, more importantly, the L LM runs back in the system, and the system has to be able to see that that response Has run a function
+44:55	And then that system then calls an external server to do a web search, it comes back and Spits it out Like we should do a whole thing on MCP at some point as well.
 45:05	Okay. Machine copy paste. Sounds good. The tool calling that we have in MIOS and on the MIOS system, there are some unique tools That we've given it, and we've put a lot of effort into being able to make MIOS this Phone app.
 45:20	The reason why it's an operating system is that it's actually a whole application kernel, and it's AI Native. So the AI is able to read through your data box or have functions and tools that it Can go through there and synthesize all that sort of stuff.
 45:37	Yeah. So it's just like going ahead and finding the correct information for what you need at the time . That's right. It's like it knows how to use your...
-45:48	Yeah. ... Computer. Yeah. Think of it that way. Yeah. Like it knows how to run commands. It knows how to run the commands within MIOS. Mm-hmm. There's some really cool hyper-technical stuff about how we can extend that without sentience protocol and MCP and All that sort of stuff, where you can extend its capability of this brain, but tool calling ultimately Is the magic that allows things to be relevant and contextual to you so that the results are Much, much better, and you don't have to copy and paste context in.
+45:48	Yeah. ... Computer. Yeah. Think of it that way. Yeah. Like it knows how to run commands. It knows how to run the commands within MIOS There's some really cool hyper-technical stuff about how we can extend that without sentience protocol and MCP and All that sort of stuff, where you can extend its capability of this brain, but tool calling ultimately Is the magic that allows things to be relevant and contextual to you so that the results are Much, much better, and you don't have to copy and paste context in.
 46:18	Yeah. Like memories are all handled. Yeah. It searches your memories for you. And I want to say importantly about MIOS is that the level of privacy in this compared to Anything else you're going to be using is probably unparalleled.
 46:33	All of the data is on your phone. They're all of our cloud providers we have zero data retention policies with. By default, you cannot get a provider from us.
 46:44	There's a reason why Grok isn't there. Because XAI don't provide zero data retention. So everything you use there, they're not retaining data at all, and not even for 30 days.
 46:56	All chat experiences do not delete your data. I looked into this. It's really scary. Yeah. The whole soft delete anyway, where it's like, "Maybe we deleted it."
 47:06	They actually have to hold onto it for legal reasons. The reason why you can use these models in zero data retention... Yes. ... Is that we're effectively providing what is enterprise level contracts for...
 47:21	Yes. ... You guys. Yes. The same with our web search. The web search on there is using Brave web search zero data retention. Yes. So all of these tool callings, all of these things, everything, going over your chats, all of that Is all private.
-47:35	Exactly. Yeah. And this is part of... Tool calling is part of the reason why we have OSS 120 billion feeling so much smarter. Mm-hmm. Mm-hmm. Because it gets the right contacts.
-47:44	Mm-hmm. Yeah. It just needs to know what you need, really. Yeah. Contracts. It just needs to know things. AI just needs to know things. You just got to have contacts.
-47:52	You have to tell it what it needs to know. Yeah. Yeah. So zero data retention, it's enterprise level contracts. Mm-hmm. Basically, we're just saying you deserve the best.
-48:04	Yeah. And if you're really nerdy, you can actually host something locally your own and put your own endpoint In. Oh, yeah. Yeah. You can. You can use your own...
-48:14	We support that as well. Yeah. You can use it in LLM if you want. Yeah. Yeah. Yeah. Anyway, we should eat. Hey. Yeah. This was fun. That was good.
-48:25	Cheers, mate.
+47:35	Exactly. Yeah. And this is part of... Tool calling is part of the reason why we have OSS 120 billion feeling so much smarter
+47:42	Mm-hmm. Because it gets the right contacts Yeah. It just needs to know what you need, really. Yeah. Contracts. It just needs to know things. AI just needs to know things.
+47:51	You just got to have contacts. You have to tell it what it needs to know
+47:55	So zero data retention, it's enterprise level contracts
+48:01	Basically, we're just saying you deserve the best. Yeah. And if you're really nerdy, you can actually host something locally your own and put your own endpoint In.
+48:10	Oh, yeah. Yeah. You can. You can use your own... We support that as well. Yeah. You can use it in LLM if you want
+48:19	Yeah. Anyway, we should eat. Hey. Yeah. This was fun. That was good. Cheers, mate.
 #+end_transcript
