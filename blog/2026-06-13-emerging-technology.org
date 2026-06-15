@@ -17,17 +17,17 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 #+end_export
 
 #+begin_teaser extravaganza
-# the facts
+# The facts
 - Mei Weng Brough-Smyth joins Aqeel at the Knox Cafe in Watson for episode two.
 - Cafe staff and Esther drop in with brief hellos during the recording.
 - Conversation opens on whether people actually want to do what is good for them.
 - The discussion turns to Meos and design choices aimed at putting the user first.
 - Later threads touch on attention, social feeds, privacy, and how tools retrieve context.
-# between the facts
+# Between the facts
 The table talk moves from personal gut-checks and self-prioritisation into why good habits slip away under technology's pull. Product thinking sits beside everyday habits: blockers, scrolling, and the awkward question of whether leaving social platforms is sensible or extreme.
-# beyond the facts
+# Beyond the facts
 A cafe conversation that treats the phone less as a gadget and more as something that rewires appetite. Care sits next to engineering: what it means to build software that defends attention rather than harvesting it.
-# why you should listen
+# Why you should listen
 The arc does not stay on philosophy; it walks through concrete choices in Meos, from limbic hijacking to tool calling and zero-retention privacy. Worth staying for how honest doubt and nerdy detail share the same bench.
 #+end_teaser
 

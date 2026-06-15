@@ -17,17 +17,17 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 #+end_export
 
 #+begin_teaser extravaganza
-# the facts
+# The facts
 - Solo bit on NEAT, POET, and MAP-Elites — algorithms that evolve neural wiring, not just weights.
 - A weekend artificial-life experiment: simple creatures evolve to recognise images they themselves produce.
 - Inspired by Kenneth O. Stanley, Jeff Clune, and Sebastian Risi — pioneers of co-evolving brains and environments.
 - Built in the browser: decentralised swarm compute via WebAssembly, PartyKit, and volunteer phones.
 - Symmetry and low-energy constraints push evolved architectures toward shapes that resemble living organisms.
-# between the facts
+# Between the facts
 A long-held fascination with evolutionary neural networks finally meets a weekend after the app-store launch. Stanley, Clune, and Risi’s lineage becomes a playable swarm experiment on the web. The self-recognition task threads together decentralised compute, Meos, and research ideas Aqeel never quite left behind.
-# beyond the facts
+# Beyond the facts
 Simple rules in three dimensions begin to look uncannily biological. Sensor neurons cluster at the front like eyes; wiring thickens behind them toward something spine-like. The same obsessions that shaped a product keep surfacing in the shapes evolution finds when physics gets a vote.
-# why you should listen
+# Why you should listen
 The arc runs from textbook algorithms to a live experiment anyone can join from a phone. Along the way it touches robotic resilience, associative learning, and why growing brains in simulation still feels strangely close to life. The full conversation is where the weekend project, the research history, and what Meos carries forward finally meet.
 #+end_teaser
 

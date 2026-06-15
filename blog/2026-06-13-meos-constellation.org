@@ -17,17 +17,17 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 #+end_export
 
 #+begin_teaser extravaganza
-# the facts
+# The facts
 - A solo bit on Meos Constellation: a new view where notes cluster without manual tags or folders.
 - Aqeel contrasts it with Obsidian-style graphs that depend on you maintaining tags and hierarchy yourself.
 - The view scales Meos cluster semantics across your whole databox, with labels that can shift as you add notes.
 - Clustering uses mathematics borrowed from astrophysics and cosmology; you explore the map in three dimensions.
 - Shipping soon on Meos desktop for Plus and Ultra users.
-# between the facts
+# Between the facts
 The conversation turns from a familiar note-taking gripe into a wider question about lenses: why fix your thinking to topics and subjects when every label narrows what you can see? Constellation is pitched as the macroscopic counterpart to cluster view — pretty, but meant to stay useful as the pile grows.
-# beyond the facts
+# Beyond the facts
 Underneath the product walkthrough sits a stubborn idea about personhood: you are not one static filing system, and a map that freezes you into topics only reinforces an old version. The aim is heuristic computing that widens judgment rather than outsourcing it — a way to glimpse what your thousands of notes already know that you have forgotten.
-# why you should listen
+# Why you should listen
 The full arc carries both the rant and the reveal: why manual knowledge graphs felt wrong for Meos, how constellation actually behaves on real notes, and why the map has to move when you do. Stay for the philosophy and the live demo together — neither half tells the whole story on its own.
 #+end_teaser
 
