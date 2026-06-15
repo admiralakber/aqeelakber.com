@@ -24,6 +24,10 @@
     <!-- My theme -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}"/>
     <link disabled id="dark-reader" rel="stylesheet" href="{{ "/css/dark.css" | prepend: site.baseurl }}">
+    {% if page.tags contains 'extravaganza' %}
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/css/extravaganza-transcript.css' | prepend: site.baseurl }}">
+    {% endif %}
 
     <!-- Javascript goodies -->
     <script src="{{ "/js/aa-goodies.js" | prepend: site.baseurl }}"></script>
