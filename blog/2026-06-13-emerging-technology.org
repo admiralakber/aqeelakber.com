@@ -18,18 +18,17 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 
 #+begin_teaser extravaganza
 # the facts
-- At the Knox Cafe in Watson, the conversation opens with a blunt question: how do you get people to do what's good for them?
-- Mei pushes back — do people even want to? Aqeel admits he only does occasionally, and describes an internal algorithm doing constant prioritisation work.
-- The thread turns to Meos — a "me operating system" — and whether design can help you care about yourself, prioritise yourself, and actually do what you want.
-- Maybe the real question isn't how to make people do what's good for them, but why they've stopped — that gut feeling of being waylaid, hijacked by the limbic system, especially through technology.
-- Social media gets called a "digital cigarette": the scroll you default to, the thing that felt fun once and now drains you — blockers, deletion, conscious versus unconscious consumption.
-- Later, over coffee, the talk shifts to tool calling, MCP, and Meos as an AI-native application kernel — with a long digression on zero data retention, why Grok isn't there, and what "soft delete" actually means.
+- Mei Weng Brough-Smyth joins Aqeel at the Knox Cafe in Watson for episode two.
+- Cafe staff and Esther drop in with brief hellos during the recording.
+- Conversation opens on whether people actually want to do what is good for them.
+- The discussion turns to Meos and design choices aimed at putting the user first.
+- Later threads touch on attention, social feeds, privacy, and how tools retrieve context.
 # between the facts
-What starts as a café conversation about self-care and trust in your own gut keeps circling back to the same tension: we know when we're off course, but something keeps pulling us sideways. Social media sits in the middle of that — community glue and attention drain at once — and Meos arrives not as a lecture but as a product shaped by those contradictions. The pivot from "why won't people do the right thing" to "what hijacked them" is where the personal and the technical start to overlap, before the conversation wanders into how an AI on your phone is supposed to know what you need without knowing everything about you.
+The table talk moves from personal gut-checks and self-prioritisation into why good habits slip away under technology's pull. Product thinking sits beside everyday habits: blockers, scrolling, and the awkward question of whether leaving social platforms is sensible or extreme.
 # beyond the facts
-Beneath the product talk is a quieter anxiety most of us recognise: the feeling that your attention no longer belongs to you, and that even the tools meant to help require a kind of faith — in your gut, in your boundaries, in whoever is holding your data. The conversation doesn't resolve whether deleting social media is wisdom or self-sabotage; it sits with the absurdity of both. What emerges is less a pitch and more a question about agency in an age that profits from your drift.
+A cafe conversation that treats the phone less as a gadget and more as something that rewires appetite. Care sits next to engineering: what it means to build software that defends attention rather than harvesting it.
 # why you should listen
-The teaser can name the threads — gut feel, hijacking, digital cigarettes, privacy contracts — but the arc only makes sense when you hear them argued aloud, interrupted by café life and allowed to meander. Mei doesn't hand Aqeel easy agreement, and the shift from philosophy to architecture to "we should eat" is the point: you need the full conversation to feel where it lands, and what it refuses to tidy up.
+The arc does not stay on philosophy; it walks through concrete choices in Meos, from limbic hijacking to tool calling and zero-retention privacy. Worth staying for how honest doubt and nerdy detail share the same bench.
 #+end_teaser
 
 #+begin_transcript extravaganza
@@ -396,7 +395,7 @@ The teaser can name the threads — gut feel, hijacking, digital cigarettes, pri
 38:37	I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point. I think that's a good point.
 38:42	I think that's a good point. I think that's a good point.
 38:52	I think that's a good point. Alright, so past this, we get to our flagship models, GPT-40, GPT-5. 2, Claude Slotin 4. 6, Opus, like Claude Opus 4.
-39:08	7, Opus 4. 8, which was launched very recently, and then the most expensive model, GPT-5. 5. I know. Yeah. So I want to start with the important fact that GPT-40 was on there.
+39:08	7, Opus 4.8, which was launched very recently, and then the most expensive model, GPT-5. 5. I know. Yeah. So I want to start with the important fact that GPT-40 was on there.
 39:26	Mm-hmm. Tell me. That's an old model. It's a model that you can't get on ChatGPT anymore. If you buy ChatGPT, you can't use GPT-40 anymore. And why do we want to use 4.
 39:42	0? 4. 0 is not a thinking model. It's evolved to be a bit different. They kept doing the 3. 0. They started doing the post training on reinforcement learning with human feedback.
 39:56	It started feeling and getting really smart out of that aspect. It had its troubles and issues in that it started getting very sycophantic. You can totally drive it to be whatever the hell you want.
@@ -410,7 +409,7 @@ The teaser can name the threads — gut feel, hijacking, digital cigarettes, pri
 41:50	0? It's all of the flagships. So 5. 2, 4. 7, 4. 8 and 5. 5. Yes. So I'm going to mention why 4. 7 and 4. 8 is there.
 41:54	Both of them. Yeah. The reason for that is 4. 7 is a slight enhancement over 4. 6, which was that unit step of intelligence compared to 4.
 42:16	5 and 4. 7 was more directed. Yeah. Yeah. And they added to what you say specifically. 4. 8 is all of that, but they added the behavior of it is less likely to lie to You.
-42:34	Okay. They, in fact, Anthropic, put a lot of effort into making sure that it is being honest. And you will see this in Opus 4. 8's thinking.
+42:34	Okay. They, in fact, Anthropic, put a lot of effort into making sure that it is being honest. And you will see this in Opus 4.8's thinking.
 42:44	It's like, I should be honest. I will do this thing, et cetera. It starts to say those words back to you more and more. Yeah. So it's very clear that they included in their post-training step from 4.
 42:54	7 to 4. 8, that particular switch there. And again, we trust your judgment once you're educated to know what you can do and what you Want to use.
 43:05	Yeah. That's a lot of opinionation and difference in results between those two. Yeah. There's an element of choosing here to make it easy for everyone to just get going.

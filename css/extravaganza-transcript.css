@@ -1,130 +1,165 @@
-/* Extravaganza episode pages — blog posts tagged `extravaganza` */
+/* Extravaganza episode pages — scoped to article.post-content (overrides main.css justify + list reset) */
 
 /* --- Player --- */
 
-.extravaganza-player {
-  margin: 1.25rem 0 0;
+article.post-content .extravaganza-player {
+  margin: 1.5rem 0 0;
 }
 
-.extravaganza-player iframe {
+article.post-content .extravaganza-player iframe {
   display: block;
   max-width: 100%;
 }
 
 /* --- Teaser ("In this episode") --- */
 
-.extravaganza-teaser {
-  margin: 2rem 0 0;
+article.post-content .extravaganza-teaser {
+  margin: 2.5rem 0 0;
   padding: 0;
+  text-align: left;
 }
 
-.extravaganza-teaser__heading {
-  font-variant: small-caps;
-  letter-spacing: 0.06em;
-  font-size: 1.05rem;
-  margin: 0 0 1.25rem;
-  color: #3a342e;
-}
-
-.extravaganza-teaser__section {
-  margin: 0 0 1.35rem;
-}
-
-.extravaganza-teaser__section:last-child {
-  margin-bottom: 0;
-}
-
-.extravaganza-teaser__label {
+article.post-content h2.extravaganza-teaser__heading,
+article.post-content h2.extravaganza-transcript__heading {
+  font-size: 1.1rem;
+  font-weight: 600;
   font-variant: small-caps;
   letter-spacing: 0.08em;
-  font-size: 0.88rem;
+  margin: 0 0 1.5rem;
+  padding: 0 0 0.4rem;
+  border-bottom: 1px solid #d8d4cc;
+  color: #3a342e;
+  text-align: left;
+}
+
+article.post-content .extravaganza-teaser__section {
+  margin: 0 0 1.75rem;
+}
+
+article.post-content .extravaganza-teaser__section + .extravaganza-teaser__section {
+  margin-top: 1.75rem;
+  padding-top: 1.35rem;
+  border-top: 1px solid #ece8e0;
+}
+
+article.post-content h3.extravaganza-teaser__label {
+  font-size: 0.78rem;
   font-weight: 600;
-  margin: 0 0 0.5rem;
+  font-variant: small-caps;
+  letter-spacing: 0.14em;
+  text-transform: lowercase;
+  margin: 0 0 0.75rem;
   color: #6b6560;
+  text-align: left;
 }
 
-.extravaganza-teaser__list {
-  list-style: disc;
-  list-style-position: outside;
-  margin: 0.35rem 0 0;
-  padding: 0 0 0 1.35rem;
-}
-
-.extravaganza-teaser__item {
-  margin: 0.55em 0;
-  padding: 0 0 0 0.15em;
-  line-height: 1.5;
-}
-
-.extravaganza-teaser__prose {
-  margin: 0.35rem 0 0;
+article.post-content ul.extravaganza-teaser__list {
+  list-style: disc outside;
+  margin: 0.25rem 0 0;
+  padding: 0 0 0 1.65rem;
   line-height: 1.55;
-  color: #2a2622;
 }
 
-.extravaganza-teaser__prose--beyond {
+article.post-content li.extravaganza-teaser__item {
+  display: list-item;
+  margin: 0.7em 0;
+  padding: 0 0 0 0.2em;
+  line-height: 1.55;
+  text-align: left;
+}
+
+article.post-content p.extravaganza-teaser__prose {
+  margin: 0.35rem 0 0;
+  line-height: 1.6;
+  color: #2a2622;
+  text-align: left;
+}
+
+article.post-content p.extravaganza-teaser__prose--beyond {
   font-style: italic;
   color: #3a342e;
 }
 
-.extravaganza-teaser__prose--why {
+article.post-content p.extravaganza-teaser__prose--why {
   margin-top: 0.5rem;
 }
 
-/* --- Transcript (flows with page — no box, no scroll) --- */
+/* --- Transcript (flows with page — no box, no scroll, no justify) --- */
 
-.extravaganza-transcript {
-  margin: 2.5rem 0 0;
+article.post-content .extravaganza-transcript {
+  margin: 3rem 0 0;
   padding: 0;
   border: none;
+  text-align: left;
 }
 
-.extravaganza-transcript__heading {
-  font-variant: small-caps;
-  letter-spacing: 0.06em;
-  font-size: 1.05rem;
+article.post-content p.extravaganza-transcript__note {
+  margin: 0 0 1.35rem;
+  font-size: 0.88rem;
+  font-style: italic;
+  color: #6b6560;
+  line-height: 1.45;
+  text-align: left;
+}
+
+article.post-content .extravaganza-transcript__body {
+  margin: 0;
+  padding: 0;
+}
+
+article.post-content .extravaganza-transcript__line {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.85rem;
   margin: 0 0 1.15rem;
-  color: #3a342e;
+  padding: 0;
+  text-align: left;
 }
 
-.extravaganza-transcript__line {
-  margin: 0 0 1em;
-  line-height: 1.55;
-}
-
-.extravaganza-transcript__ts-link {
+article.post-content .extravaganza-transcript__ts-link {
+  flex: 0 0 auto;
   text-decoration: none;
   color: inherit;
   cursor: pointer;
+  margin-top: 0.15em;
 }
 
-.extravaganza-transcript__ts-link:hover .extravaganza-transcript__ts,
-.extravaganza-transcript__ts-link:focus .extravaganza-transcript__ts {
+article.post-content .extravaganza-transcript__ts-link:hover .extravaganza-transcript__ts,
+article.post-content .extravaganza-transcript__ts-link:focus .extravaganza-transcript__ts {
   color: #8b4513;
   text-decoration: underline;
 }
 
-.extravaganza-transcript__ts {
+article.post-content time.extravaganza-transcript__ts {
   display: inline-block;
-  min-width: 3.75em;
-  margin-right: 0.65em;
+  min-width: 3.5em;
   font-family: "Inconsolata", "Courier New", monospace;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   color: #6b6560;
   font-variant-numeric: tabular-nums;
-  vertical-align: top;
 }
 
-.extravaganza-transcript__text {
-  display: inline;
-  font-family: "Crimson Text", serif;
-  font-size: 1.05rem;
+article.post-content p.extravaganza-transcript__text {
+  flex: 1 1 auto;
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
   color: #2a2622;
+  text-align: left;
 }
 
 @media (max-width: 640px) {
-  .extravaganza-transcript__ts {
-    min-width: 3.25em;
-    margin-right: 0.45em;
+  article.post-content ul.extravaganza-teaser__list {
+    padding-left: 1.35rem;
+  }
+
+  article.post-content .extravaganza-transcript__line {
+    gap: 0.55rem;
+  }
+
+  article.post-content time.extravaganza-transcript__ts {
+    min-width: 3rem;
+    font-size: 0.75rem;
   }
 }
