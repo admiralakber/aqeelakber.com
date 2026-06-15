@@ -14,65 +14,25 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xr7TjlvIi3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 
+#+begin_teaser extravaganza
+- You've seen the Obsidian graphs — pretty, but someone's still maintaining those tags, often with an LLM doing the guesswork.
+- Aqeel has a rant brewing on why pinning every note to a topic might be the wrong lens every single time.
+- Hierarchies feel sensible until the next piece of information arrives and the folder structure you've built no longer quite fits.
+- Your cluster view already surfaces what's alike; the open question is what to do with the notes you can't remember having written.
+- Meos Constellation asks what a macroscopic view of your data box might look like if labels could shift — and why cosmology metaphors turned out to fit.
+#+end_teaser
+
 #+begin_transcript extravaganza
-0:01	Look great thank you thank you so much and you know what else looks really good something like
-0:11	This so uh given that we are in the note-taking space and you've probably seen all of those
-0:21	Obsidian sort of things making those graphs and all that sort of stuff but you have to maintain
-0:27	Those tags and everything yourselves and then people tend to use llms to do this to be able
-0:34	To make these tags now i am going to have to write a full blog post about my
-0:39	Rant on this on why we haven't made a knowledge graph because let's say you've decided to tag
-0:46	And connect together everything by let's say topic or subject how is that the right lens to look
-0:56	At something
-0:59	Every time that you are going to then put a label upon something there is a certain way
-1:04	Which you're looking at it and i wanted to make sure for meos that we have something that
-1:10	Is more pan-dimensional more general and then within that you should still be able to find patterns and
-1:16	Importantly why would we restrict the traversal of artificial intelligence or your way own way your own brain
-1:23	Works based on something as basic as are they a boy or a girl you know and that
-1:30	's why um this research project that we've got and we'll be shipping pretty soon we call me
-1:37	Os constellation and not only is it pretty it's actually good and useful the useful part here is
-1:46	Suppose you have made a wiki or a hierarchy of stuff as soon as you add more information
-1:54	And notes and things like that then where do you come from like i've at least found you
-2:00	Try and make a file structure and you always add new information it's like it doesn't quite fit
-2:05	In you have to redo everything so this is entirely dynamic it is built upon the exact same
-2:11	Thing that builds meos cluster so on the cluster view you see that same sort of thing that
-2:17	Semantic sort of stuff goes on there this is the macroscopic view of everything that you may have
-2:24	In your data box as well as then being able to see the trends upon those uh we
-2:29	've then applied algorithms that and algorithms and mathematics that are inspired by some ideas that i got
-2:37	From my astrophysics and cosmology classes back in the day long time ago and it turned out to
-2:43	Work really well in this information space to be able to understand things hence why calling it constellation
-2:50	So over here we have an example set of notes that we have turned into a constellation so
-2:58	Over here all of the clusters are connected together you can see they've all got a title once
-3:06	We have worked out a clustering then we can give it a label if you add a new
-3:10	Information that label and hierarchy will highly likely change and that's just like us when you learn something
-3:18	New you change you shouldn't necessarily separate ideas from each other not if you want to stay relevant
-3:25	In this world you know
-3:28	I'm gonna say that yep keep that in so we can take it take a look here and
-3:33	Like three dimensions i believe works really well to be able to explore this rather than two dimensions
-3:38	Um it in fact actually works well with the algorithm as well so for example um all concepts
-3:45	Here and then the next level technological process process and then inside that scientific advancement inside that economic
-3:54	And tech these positionings are roughly correlated to their likeliness with each other as well in some places
-4:03	You can sometimes it comes up where you see that they overlap so you would expect eventually them
-4:08	To overlap but there are none in this case it is strictly hierarchical so let's give an example
-4:15	Over here i'm going to go into cultural achievements let's say cultural achievements over the right it says
-4:21	There egypt pyramids invention of printing press uh hemingway shakespeare that sounds like cultural achievements so that's pretty
-4:30	Good that's pretty good there i guess by the nature of this being semantic and heuristic you will
-4:38	Potentially find errors and this is something that i believe is okay when we have it being more
-4:48	Representative a big philosophy of mios is to help the everyday person move into this era of he
-4:58	Uristic computing and this like i like to call it the knowledge era and that allows we're trying
-5:06	To give them safe passage through that in a way that is familiar allow your own judgment and
-5:12	We never infantilize we don't want to let people's brains fall out just because we have ai and
-5:19	There this is a ai product or whatever this and that it's actually designed to strengthen your own
-5:25	Mind's intelligence in every single way so this is mios constellation i am really excited about this we
-5:33	Are going to ship this pretty soon actually and it will be available on mios desktop to our
-5:41	Plus and ultra users they will be able to explore their information and notes and i'll leave this
-5:48	Here with one thing and that is when you have a lot of information and notes yourself you
-5:53	Might not know what you don't know or you might not remember what you don't remember in fact
-5:59	You don't that's the whole point this is useful because it allows you to glimpse that and know
-6:05	What's in your thousands of notes i have over 10 000 elements in my data box on m
-6:11	Ios now on my phone which is really phenomenal how quickly you start accruing all of this information
-6:17	The cluster view is great because as soon as you add something it brings up associated things that
-6:22	Are the same but what if you just living through a different season of life what if you
-6:27	Are now not necessarily remembering that you did something that could be useful for now that's exactly what
-6:36	This view is for and that's exactly why it needs to stay dynamic because if it was just
-6:42	Topics it's only going to reinforce one version of you that is non-dynamic
+0:01	Look great thank you thank you so much and you know what else looks really good something like This so uh given that we are in the note-taking space and you've probably seen all of those Obsidian sort of things making those graphs and all that sort of stuff but you have to maintain Those tags and everything yourselves and then people tend to use llms to do this to be able To make these tags now i am going to have to write a full blog post about my
+0:39	Rant on this on why we haven't made a knowledge graph because let's say you've decided to tag And connect together everything by let's say topic or subject how is that the right lens to look At something Every time that you are going to then put a label upon something there is a certain way Which you're looking at it and i wanted to make sure for meos that we have something that Is more pan-dimensional more general and then within that you should still be able to find patterns and
+1:16	Importantly why would we restrict the traversal of artificial intelligence or your way own way your own brain Works based on something as basic as are they a boy or a girl you know and that 's why um this research project that we've got and we'll be shipping pretty soon we call me Os constellation and not only is it pretty it's actually good and useful the useful part here is Suppose you have made a wiki or a hierarchy of stuff as soon as you add more information
+1:54	And notes and things like that then where do you come from like i've at least found you Try and make a file structure and you always add new information it's like it doesn't quite fit In you have to redo everything so this is entirely dynamic it is built upon the exact same Thing that builds meos cluster so on the cluster view you see that same sort of thing that Semantic sort of stuff goes on there this is the macroscopic view of everything that you may have
+2:24	In your data box as well as then being able to see the trends upon those uh we 've then applied algorithms that and algorithms and mathematics that are inspired by some ideas that i got From my astrophysics and cosmology classes back in the day long time ago and it turned out to Work really well in this information space to be able to understand things hence why calling it constellation So over here we have an example set of notes that we have turned into a constellation so
+2:58	Over here all of the clusters are connected together you can see they've all got a title once We have worked out a clustering then we can give it a label if you add a new Information that label and hierarchy will highly likely change and that's just like us when you learn something New you change you shouldn't necessarily separate ideas from each other not if you want to stay relevant In this world you know
+3:28	I'm gonna say that yep keep that in so we can take it take a look here and Like three dimensions i believe works really well to be able to explore this rather than two dimensions Um it in fact actually works well with the algorithm as well so for example um all concepts Here and then the next level technological process process and then inside that scientific advancement inside that economic And tech these positionings are roughly correlated to their likeliness with each other as well in some places
+4:03	You can sometimes it comes up where you see that they overlap so you would expect eventually them To overlap but there are none in this case it is strictly hierarchical so let's give an example Over here i'm going to go into cultural achievements let's say cultural achievements over the right it says There egypt pyramids invention of printing press uh hemingway shakespeare that sounds like cultural achievements so that's pretty Good that's pretty good there i guess by the nature of this being semantic and heuristic you will
+4:38	Potentially find errors and this is something that i believe is okay when we have it being more Representative a big philosophy of mios is to help the everyday person move into this era of he Uristic computing and this like i like to call it the knowledge era and that allows we're trying To give them safe passage through that in a way that is familiar allow your own judgment and We never infantilize we don't want to let people's brains fall out just because we have ai and
+5:19	There this is a ai product or whatever this and that it's actually designed to strengthen your own Mind's intelligence in every single way so this is mios constellation i am really excited about this we Are going to ship this pretty soon actually and it will be available on mios desktop to our Plus and ultra users they will be able to explore their information and notes and i'll leave this Here with one thing and that is when you have a lot of information and notes yourself you
+5:53	Might not know what you don't know or you might not remember what you don't remember in fact You don't that's the whole point this is useful because it allows you to glimpse that and know What's in your thousands of notes i have over 10 000 elements in my data box on m Ios now on my phone which is really phenomenal how quickly you start accruing all of this information The cluster view is great because as soon as you add something it brings up associated things that
+6:22	Are the same but what if you just living through a different season of life what if you Are now not necessarily remembering that you did something that could be useful for now that's exactly what This view is for and that's exactly why it needs to stay dynamic because if it was just Topics it's only going to reinforce one version of you that is non-dynamic
 #+end_transcript

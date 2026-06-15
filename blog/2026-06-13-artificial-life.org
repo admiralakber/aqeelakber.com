@@ -14,114 +14,36 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gWJhNSDOimM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #+end_export
 
+#+begin_teaser extravaganza
+- A long-deferred weekend returns to NEAT—the evolutionary algorithm that grows a neural network's wiring, not merely its weights.
+- The fitness task is deliberately awkward: each creature sees an image it produced and must infer the DNA sequence that built both the picture and the brain.
+- Anyone with a browser can join a decentralised swarm over WebAssembly and PartyKit, evolving populations in parallel rather than on one machine.
+- POET and MAP-Elites linger in the background—algorithms built for shifting environments and robots that still walk when a leg disappears.
+- Attention, Hebbian learning, and neuromodulation help, yet one difficulty behaves like a halting problem: knowing how long your own genome is from a glimpse of yourself.
+- Symmetry and low-energy constraints enter as simple rules—and the search begins producing forms that feel less like diagrams and more like something else.
+#+end_teaser
+
 #+begin_transcript extravaganza
-0:00	Time my weekend project cost me two and a half thousand dollars of opus 4.
-0:06	8 credits so one of my weekend projects i haven't done one in a while because i've been
-0:14	So focused on building neos that has been my weekend and weekday and late night project uh but
-0:22	Since we launched the app stores i was really excited to finally have time to work on an
-0:29	Algorithm i've had a romantic accession with ever since i got exposed to ai and that was neural
-0:36	Evolution through augmented topology which is using evolutionary algorithms to not only change the weights of a neural
-0:45	Network but also the way that it connects together it uses genetic algorithms so it defines a d
-0:52	Na sequence per neural network and then with that you test it out in a simulated environment and
-0:59	Then you see which ones are the fittest and then breed a new population based on the one
-1:05	Before that there are extensions to this algorithm and i kept following it by the way the work
-1:10	Is all biologically inspired by and the pioneers are kenneth o stanley um jeff clune is another one
-1:17	That i am really inspired by with his works where he extended it to include the algorithm called
-1:23	Poet poet then is about being able to make the environment which you tested in also evolve at
-1:29	The same style size um same way as the algorithm evolving so you have ways of knowing how
-1:36	To get to the place you want to get and then further work sebastian reesey i think was
-1:42	Their name that worked on map elites and this turned into a re those really great um nature
-1:51	Paper of robots that heal themselves so you get like a hexapod um robot and these algorithms are
-2:00	Really good unlike they're not really used for training llms or ai but they're really good for um
-2:08	Robotic gait so you can imagine a hexapod needs to know how to move its legs and instead
-2:14	Of um keeping the algorithm that knows how to move its legs in the perfect living situation you
-2:22	Then put it in an environment where or you you measure um particular evolved genomes of these brains
-2:31	Where the leg itself one of the legs might not be touching but it's still moving now this
-2:38	Is useful to keep and you keep it like multi-dimensional parameterization of this so that in the field
-2:45	Suppose that like hexapod's leg got like taken off then that way it still is able to change
-2:51	Its brain really quickly without retraining so these are that's the algorithm that i was really excited about
-2:58	And i never had chances to play with it i also had avoids like i guess in this
-3:03	Coast of mias and you can see it all in mias i have an obsession with decentralization and
-3:09	Utilization of i suppose volunteer compute and because this is a population search algorithm it is able to
-3:18	Be embarrassingly parallel and decentralized so utilizing the web browser and cloudflare party kit i then and web
-3:29	Assembly i was then able to develop a neural evolution um artificial life experiment where anyone can go
-3:39	To it to this website you can go onto your phone onto this website and it connects you
-3:45	To the cloud the swarm compute and you're helping evolve
-3:52	Neural network life forms that are doing one thing which i think is this is where it became
-3:56	A weekend project not a bit of an art where they're trying to understand their true self so
-4:04	As i said earlier the neural networks image or like what defines the neural networks architecture can be
-4:14	Done as a sequence a dna sequence that then produces a pattern
-4:22	That pattern gets through an algorithm that turns into the brain the inputs then for that brain or
-4:29	We can think of like what we put as the eyeballs what we put as the input into
-4:33	That thing to test it is that i give it the image that produced itself so it's like
-4:38	Right now i'm looking at a preview of myself my brain is seeing a picture of me and
-4:44	The task then that we tested on is that given that input of seeing the produced image can
-4:53	That neural network reproduce the sequence that developed that image and uh this again like the genesis um
-5:04	Random seed to start this entire algorithm i used the sequence and yet a trace of the true
-5:13	Self exists within the false this is a ridiculously hard problem because it is solving a few things
-5:24	It has to know how to make a sequence that's one so that's sort of like a ll
-5:29	M sort of deal so i've decided to extend a lot of the work that was usually done
-5:34	In neural evolution and bring in some of the more um recurrent neural network stuff like um k
-5:41	Arpathy andre karpathy really made famous with their original blog post on the what's it called the what
-5:48	's it called the unreasonable effectiveness of recurrent neural networks so it's going back to all that stuff
-5:53	And then bringing in a bit of what we know now today of ai so this is the
-5:59	The repo you can go check it out it's mit i think it's probably or whatever i have
-6:05	A whole heap of research in here the documentation you can see the literature review on the white
-6:11	Paper as well but i also have as i said it's all web assembly
-6:16	And runs in the browser so as soon as you go to the github pages site this is
-6:21	Actually the app and it's loading now so what this is happening here are all of the neural
-6:28	Networks that are a different type of uh niche of behavior so if this was the hexapod it
-6:38	'll be like on a human being let's say it's like the percentage that this neural network keeps
-6:44	Its left leg on the ground versus the right leg on the ground so if you and then
-6:49	The challenge in that case might be who moves the fastest that's like kind of what this map
-6:56	Elites here is is doing so in this case we are doing it by symmetry versus complexity to
-7:04	The actual neural network the neural network itself it's super glaring let me close this all right
-7:16	Can you open the window yeah there we go cool so the neural network sequence the original sequence
-7:27	Is there that neural network sequence creates this convolutional paddle pattern producing network that takes x y z
-7:37	Um it's actually x1 x2 y1 y2 blah blah blah so that makes a connectivity matrix
-7:45	That will be in three dimensions those patterns um that it produces are these images here that's the
-7:54	3d image so that neural network dna sequence produces an image like this and then you use another
-8:05	Algorithm this comes from actually the es hyperneet evolved substrate hyperneet extension that's the two-dimensional version so different
-8:15	Parts parts of density determines the nodes that's the actual brain itself so the input then to this
-8:22	Neural network takes this image as a sequence and it actually has attention to be able to determine
-8:32	What part is most interesting and then tries to produce a sequential output to produce a sequence is
-8:39	Already hard enough to be able to learn but the real hard thing
-8:45	Is i guess the only people that would be understanding this by now would know is when to
-8:51	Stop producing the actual sequence that's uh effectively a halting problem uh that's obviously incredibly hard so it
-9:01	Has to know by looking at the image of itself the length of its very own dna sequence
-9:07	N which is over here you can see how often it glimpsed at the actual thing and thought
-9:13	Before it actually wrote the neural um the sequence out and this one you can see it has
-9:18	Produced five nodes 18 connections out of it should have done 19 connections i've also implemented heavy and
-9:26	Learning and neuroplasticity as well as neuromodulation uh this is also really cool stuff all um proper bi
-9:35	Ologically inspired neural network things heavy and learning and associative learning allows you to do learning at a
-9:42	Time so it's sort of like attention in a way or recurrence in a way it is also
-9:47	How we operate a lot more and a big part of mios you can really see what i
-9:54	Really enjoyed about doing this project was you can really i could really see the the thread of
-10:06	These things that i found interesting as a researcher um the things that i was attracted to as
-10:13	A researcher and even though i didn't go into ai research and i decided to go into ai
-10:19	Business i guess and consulting originally when it kind of boomed and if i went into ai research
-10:24	I probably would be a lot more better well off this is i can see how these things
-10:32	Have inspired my actions in building mios all the things that i've held on to and that real
-10:40	Poetic ending to all of this is the reason why i decided to make this neural network and
-10:48	Artificial life experiment try produce an image of itself again goes to that genesis and yet a trace
-10:55	Of the true self exists within the false just as so many of these research ideas and thoughts
-11:01	Of mine they exist within mios they exist within this website you can go to and importantly they
-11:11	Exist within me add the biological nature of these simple simple rules of we've got this three-dimensionality and
-11:24	Then um a pattern producing so this is the currently best performing brain that we have evolved so
-11:34	Far again please go to the website and you can help us evolve more over here on the
-11:40	Left you can see these two two input neurons and then it goes to the output neurons on
-11:45	The back and then one of this reminded me of by looking at this was the very well
-11:52	Known and established fact in neuroscience that our eyeballs evolved into our brain the fact that we just
-12:02	Started as eyeballs and that sensor alone then turned into this brain you can see that here you
-12:09	Can see those two eyeballs at the front you can see them there they are there's those two
-12:14	Little eyeballs at the front goes into a big fat piece of neurons connected together and then to
-12:21	An output which i guess would be the spine this is just one of them you can take
-12:25	A look at other different shapes here let's take a look at this shape there's a kind of
-12:29	Cool shape as well you can always see there's like oh import neurons they're the sensors they're like
-12:36	Eyeballs two eyeballs those are the two eyeballs that are looking at this you can see that they
-12:40	're the sensors they're like eyeballs two eyeballs those are the two eyeballs that are looking at this
-12:41	Image that i gave this simple mathematical problem and because i followed the rules of exactly how we
-12:51	Make this in the physical world doing it in 3d three dimensions getting symmetry is a thing to
-13:00	Do with energy conservation as well trying to keep things low energy it started making things that look
-13:08	Like life
+0:00	Time my weekend project cost me two and a half thousand dollars of opus 4. 8 credits so one of my weekend projects i haven't done one in a while because i've been So focused on building neos that has been my weekend and weekday and late night project uh but Since we launched the app stores i was really excited to finally have time to work on an Algorithm i've had a romantic accession with ever since i got exposed to ai and that was neural Evolution through augmented topology which is using evolutionary algorithms to not only change the weights of a neural
+0:45	Network but also the way that it connects together it uses genetic algorithms so it defines a d Na sequence per neural network and then with that you test it out in a simulated environment and Then you see which ones are the fittest and then breed a new population based on the one Before that there are extensions to this algorithm and i kept following it by the way the work Is all biologically inspired by and the pioneers are kenneth o stanley um jeff clune is another one
+1:17	That i am really inspired by with his works where he extended it to include the algorithm called Poet poet then is about being able to make the environment which you tested in also evolve at The same style size um same way as the algorithm evolving so you have ways of knowing how To get to the place you want to get and then further work sebastian reesey i think was Their name that worked on map elites and this turned into a re those really great um nature
+1:51	Paper of robots that heal themselves so you get like a hexapod um robot and these algorithms are Really good unlike they're not really used for training llms or ai but they're really good for um Robotic gait so you can imagine a hexapod needs to know how to move its legs and instead Of um keeping the algorithm that knows how to move its legs in the perfect living situation you Then put it in an environment where or you you measure um particular evolved genomes of these brains
+2:31	Where the leg itself one of the legs might not be touching but it's still moving now this Is useful to keep and you keep it like multi-dimensional parameterization of this so that in the field Suppose that like hexapod's leg got like taken off then that way it still is able to change Its brain really quickly without retraining so these are that's the algorithm that i was really excited about And i never had chances to play with it i also had avoids like i guess in this
+3:03	Coast of mias and you can see it all in mias i have an obsession with decentralization and Utilization of i suppose volunteer compute and because this is a population search algorithm it is able to Be embarrassingly parallel and decentralized so utilizing the web browser and cloudflare party kit i then and web Assembly i was then able to develop a neural evolution um artificial life experiment where anyone can go To it to this website you can go onto your phone onto this website and it connects you
+3:45	To the cloud the swarm compute and you're helping evolve Neural network life forms that are doing one thing which i think is this is where it became A weekend project not a bit of an art where they're trying to understand their true self so As i said earlier the neural networks image or like what defines the neural networks architecture can be Done as a sequence a dna sequence that then produces a pattern
+4:22	That pattern gets through an algorithm that turns into the brain the inputs then for that brain or We can think of like what we put as the eyeballs what we put as the input into That thing to test it is that i give it the image that produced itself so it's like Right now i'm looking at a preview of myself my brain is seeing a picture of me and The task then that we tested on is that given that input of seeing the produced image can
+4:53	That neural network reproduce the sequence that developed that image and uh this again like the genesis um Random seed to start this entire algorithm i used the sequence and yet a trace of the true Self exists within the false this is a ridiculously hard problem because it is solving a few things It has to know how to make a sequence that's one so that's sort of like a ll M sort of deal so i've decided to extend a lot of the work that was usually done
+5:34	In neural evolution and bring in some of the more um recurrent neural network stuff like um k Arpathy andre karpathy really made famous with their original blog post on the what's it called the what 's it called the unreasonable effectiveness of recurrent neural networks so it's going back to all that stuff And then bringing in a bit of what we know now today of ai so this is the The repo you can go check it out it's mit i think it's probably or whatever i have
+6:05	A whole heap of research in here the documentation you can see the literature review on the white Paper as well but i also have as i said it's all web assembly And runs in the browser so as soon as you go to the github pages site this is Actually the app and it's loading now so what this is happening here are all of the neural Networks that are a different type of uh niche of behavior so if this was the hexapod it 'll be like on a human being let's say it's like the percentage that this neural network keeps
+6:44	Its left leg on the ground versus the right leg on the ground so if you and then The challenge in that case might be who moves the fastest that's like kind of what this map Elites here is is doing so in this case we are doing it by symmetry versus complexity to The actual neural network the neural network itself it's super glaring let me close this all right Can you open the window yeah there we go cool so the neural network sequence the original sequence Is there that neural network sequence creates this convolutional paddle pattern producing network that takes x y z
+7:37	Um it's actually x1 x2 y1 y2 blah blah blah so that makes a connectivity matrix That will be in three dimensions those patterns um that it produces are these images here that's the 3d image so that neural network dna sequence produces an image like this and then you use another Algorithm this comes from actually the es hyperneet evolved substrate hyperneet extension that's the two-dimensional version so different Parts parts of density determines the nodes that's the actual brain itself so the input then to this Neural network takes this image as a sequence and it actually has attention to be able to determine
+8:32	What part is most interesting and then tries to produce a sequential output to produce a sequence is Already hard enough to be able to learn but the real hard thing
+8:45	Is i guess the only people that would be understanding this by now would know is when to Stop producing the actual sequence that's uh effectively a halting problem uh that's obviously incredibly hard so it Has to know by looking at the image of itself the length of its very own dna sequence N which is over here you can see how often it glimpsed at the actual thing and thought Before it actually wrote the neural um the sequence out and this one you can see it has
+9:18	Produced five nodes 18 connections out of it should have done 19 connections i've also implemented heavy and Learning and neuroplasticity as well as neuromodulation uh this is also really cool stuff all um proper bi Ologically inspired neural network things heavy and learning and associative learning allows you to do learning at a Time so it's sort of like attention in a way or recurrence in a way it is also How we operate a lot more and a big part of mios you can really see what i
+9:54	Really enjoyed about doing this project was you can really i could really see the the thread of These things that i found interesting as a researcher um the things that i was attracted to as A researcher and even though i didn't go into ai research and i decided to go into ai Business i guess and consulting originally when it kind of boomed and if i went into ai research I probably would be a lot more better well off this is i can see how these things
+10:32	Have inspired my actions in building mios all the things that i've held on to and that real Poetic ending to all of this is the reason why i decided to make this neural network and Artificial life experiment try produce an image of itself again goes to that genesis and yet a trace Of the true self exists within the false just as so many of these research ideas and thoughts Of mine they exist within mios they exist within this website you can go to and importantly they
+11:11	Exist within me add the biological nature of these simple simple rules of we've got this three-dimensionality and Then um a pattern producing so this is the currently best performing brain that we have evolved so Far again please go to the website and you can help us evolve more over here on the Left you can see these two two input neurons and then it goes to the output neurons on The back and then one of this reminded me of by looking at this was the very well
+11:52	Known and established fact in neuroscience that our eyeballs evolved into our brain the fact that we just Started as eyeballs and that sensor alone then turned into this brain you can see that here you Can see those two eyeballs at the front you can see them there they are there's those two Little eyeballs at the front goes into a big fat piece of neurons connected together and then to An output which i guess would be the spine this is just one of them you can take
+12:25	A look at other different shapes here let's take a look at this shape there's a kind of Cool shape as well you can always see there's like oh import neurons they're the sensors they're like Eyeballs two eyeballs those are the two eyeballs that are looking at this you can see that they 're the sensors they're like eyeballs two eyeballs those are the two eyeballs that are looking at this Image that i gave this simple mathematical problem and because i followed the rules of exactly how we
+12:51	Make this in the physical world doing it in 3d three dimensions getting symmetry is a thing to Do with energy conservation as well trying to keep things low energy it started making things that look Like life
 #+end_transcript
