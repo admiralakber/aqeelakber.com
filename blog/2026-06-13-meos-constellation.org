@@ -5,6 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: extravaganza podcast youtube
 #+JEKYLL_PUBLISHED: true
+#+EXTRA_PATH: extra-bt2
 
 Meos Constellation — a solo bit on a new Meos view where your notes cluster themselves, instead of you maintaining tags and folder trees like Obsidian. Aqeel on why that felt wrong, and why the map should move when you do. The Aqeel Akber Extra Extra Extravaganza, made by Aqeel in Canberra.
 

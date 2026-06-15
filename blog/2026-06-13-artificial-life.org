@@ -5,6 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: extravaganza podcast youtube
 #+JEKYLL_PUBLISHED: true
+#+EXTRA_PATH: extra-bt1
 
 A solo bit on NEAT, POET, and MAP-Elites — evolutionary algorithms that grow neural networks and their wiring, not just weights. Aqeel walks through a weekend experiment where simple creatures evolve to recognise images they themselves produce, and how symmetry and low-energy constraints start to look uncannily like life.
 

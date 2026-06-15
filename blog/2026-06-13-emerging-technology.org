@@ -5,6 +5,7 @@
 #+JEKYLL_CATEGORIES:
 #+JEKYLL_TAGS: extravaganza podcast youtube
 #+JEKYLL_PUBLISHED: true
+#+EXTRA_PATH: extra-ep2
 
 Emerging Technology — a conversation with Mei Weng Brough-Smyth at the Knox Cafe in Watson, with cafe staff and Esther saying hi. The Aqeel Akber Extra Extra Extravaganza, made by Aqeel in Canberra.
 

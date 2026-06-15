@@ -213,3 +213,53 @@ article.post-content p.extravaganza-transcript__text {
     padding-left: 1em;
   }
 }
+
+/* --- Self-sponsor CTA --- */
+
+article.post-content aside.extravaganza-cta {
+  margin: 0;
+  padding: 1.35rem 1rem;
+  text-align: center;
+  border-top: 1px solid #d8d4cc;
+  border-bottom: 1px solid #d8d4cc;
+  max-width: 100%;
+}
+
+article.post-content aside.extravaganza-cta--top {
+  margin-bottom: 1.75rem;
+}
+
+article.post-content aside.extravaganza-cta--closing {
+  margin-top: 2.75rem;
+}
+
+article.post-content p.extravaganza-cta__lead {
+  margin: 0 0 0.65rem;
+  font-size: 0.82rem;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  color: #5c5650;
+  line-height: 1.5;
+}
+
+article.post-content p.extravaganza-cta__action {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+article.post-content a.extravaganza-cta__link {
+  font-weight: 600;
+  color: #2a2622;
+  text-decoration: none;
+}
+
+article.post-content a.extravaganza-cta__link:hover,
+article.post-content a.extravaganza-cta__link:focus {
+  text-decoration: underline;
+  color: #8b4513;
+}
+
+article.post-content a.extravaganza-cta__link strong {
+  font-weight: 700;
+}
