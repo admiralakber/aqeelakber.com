@@ -22,6 +22,16 @@ layout: default
             {% endif  %}
             <a href=https://github.com/admiralakber/aqeelakber.com/commits/main/{{ page.path }} style="font-style: italic;">Full Document History</a>
             {% if page.tags %}<p style="font-variant: small-caps;"><i class="fa fa-tags" style="font-size: 0.7em;" aria-hidden="true"></i> {% for tag in page.tags %}<a href="/tags#{{ tag }}">{{ tag }}</a> {% endfor %}</p>{% endif %}
+            {% if page.tags contains 'extravaganza' %}
+            <p class="extravaganza-counter" data-hit-key="{{ page.url }}" aria-live="polite" hidden></p>
+            <div class="extravaganza-share">
+                <p class="extravaganza-share__lead">Enjoyed this? Tell someone who'd get it.</p>
+                <div class="extravaganza-share__actions">
+                    <button type="button" class="extravaganza-share__btn" data-share="native">Share episode</button>
+                    <button type="button" class="extravaganza-share__btn" data-share="copy">Copy link</button>
+                </div>
+            </div>
+            {% endif %}
         </header>
         <br>
 
