@@ -11,15 +11,25 @@ Meos Constellation — a solo bit on a new Meos view where your notes cluster th
 Watch the full episode below — also on the podcast feed wherever you listen.
 
 #+begin_export html
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Xr7TjlvIi3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="extravaganza-player" id="extravaganza-yt-anchor">
+<iframe id="extravaganza-yt" width="100%" height="315" src="https://www.youtube.com/embed/Xr7TjlvIi3w?enablejsapi=1&origin=https%3A%2F%2Faqeelakber.com&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 #+end_export
 
 #+begin_teaser extravaganza
-- You've seen the Obsidian graphs — pretty, but someone's still maintaining those tags, often with an LLM doing the guesswork.
-- Aqeel has a rant brewing on why pinning every note to a topic might be the wrong lens every single time.
-- Hierarchies feel sensible until the next piece of information arrives and the folder structure you've built no longer quite fits.
-- Your cluster view already surfaces what's alike; the open question is what to do with the notes you can't remember having written.
-- Meos Constellation asks what a macroscopic view of your data box might look like if labels could shift — and why cosmology metaphors turned out to fit.
+# the facts
+- Obsidian-style graphs look good, but you maintain the tags yourself — or lean on an LLM to do it for you.
+- Aqeel's long-standing rant: why Meos never shipped a knowledge graph built on topic or subject labels, and why that lens is not always the right way to look at something.
+- Meos Constellation — built on the same semantic clustering as cluster view, but as a macroscopic map of everything in your data box.
+- Algorithms inspired by astrophysics and cosmology classes, applied to information space; clusters get titles, and new notes can shift the label and hierarchy.
+- Three dimensions, not two: concepts nest inside technological process, scientific advancement, economic and tech — with overlap where semantics demand it.
+- Heuristic computing, errors included: Plus and Ultra users on Meos desktop will get a view for when you are living through a different season of life.
+# between the facts
+The conversation keeps circling the same friction: static folders and hand-maintained tags feel organised until new information arrives and nothing quite fits. Constellation is offered as the opposite impulse — pan-dimensional, dynamic, willing to rearrange itself when you learn something new — while still asking you to judge what you see rather than outsourcing sense-making to a model.
+# beyond the facts
+Most of us are not short on notes; we are short on recall — what we forgot we wrote, what we never knew we had. A map that only reinforces one version of you, frozen by topic, quietly ages you out of your own archive. The stake here is whether software helps you stay relevant to yourself as you change, or locks you into a past self you no longer inhabit.
+# why you should listen
+The teaser names the shape of the argument; the full arc is where Aqeel walks the constellation live, tests whether 'cultural achievements' actually lands on pyramids and Hemingway, and spells out what 'strengthen your own mind's intelligence' means when the clusters are wrong on purpose. You need the wander to feel why a static graph was never the point.
 #+end_teaser
 
 #+begin_transcript extravaganza

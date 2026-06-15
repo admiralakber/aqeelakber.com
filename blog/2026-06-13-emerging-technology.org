@@ -11,16 +11,25 @@ Emerging Technology — a conversation with Mei Weng Brough-Smyth at the Knox Ca
 Watch the full episode below — also on the podcast feed wherever you listen.
 
 #+begin_export html
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zkFTlNrVqFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="extravaganza-player" id="extravaganza-yt-anchor">
+<iframe id="extravaganza-yt" width="100%" height="315" src="https://www.youtube.com/embed/zkFTlNrVqFU?enablejsapi=1&origin=https%3A%2F%2Faqeelakber.com&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 #+end_export
 
 #+begin_teaser extravaganza
-- At the Knox Cafe in Watson, Mei Weng Brough-Smyth joins a table-side chat that opens with a deceptively simple question: do you actually do what's good for you?
-- Everyone admits to running on some internal prioritisation algorithm — the tension is whether you can still trust that compass when life gets noisy.
-- Meos surfaces not as a demo, but as a provocation: what if software were built around you as an operating system, not around keeping you engaged?
-- The conversation keeps circling hijacked attention — the scroll that used to feel fun, the blockers people reach for, and the uneasy metaphor of a digital cigarette.
-- Deleting social media sounds both sensible and absurd at once, as if community glue and engineered drain might be the same problem wearing different masks.
-- Before the coffees go cold, the wander turns technical — tool calling, what an AI-native kernel might owe you, and why privacy keeps re-entering the room.
+# the facts
+- At the Knox Cafe in Watson, the conversation opens with a blunt question: how do you get people to do what's good for them?
+- Mei pushes back — do people even want to? Aqeel admits he only does occasionally, and describes an internal algorithm doing constant prioritisation work.
+- The thread turns to Meos — a "me operating system" — and whether design can help you care about yourself, prioritise yourself, and actually do what you want.
+- Maybe the real question isn't how to make people do what's good for them, but why they've stopped — that gut feeling of being waylaid, hijacked by the limbic system, especially through technology.
+- Social media gets called a "digital cigarette": the scroll you default to, the thing that felt fun once and now drains you — blockers, deletion, conscious versus unconscious consumption.
+- Later, over coffee, the talk shifts to tool calling, MCP, and Meos as an AI-native application kernel — with a long digression on zero data retention, why Grok isn't there, and what "soft delete" actually means.
+# between the facts
+What starts as a café conversation about self-care and trust in your own gut keeps circling back to the same tension: we know when we're off course, but something keeps pulling us sideways. Social media sits in the middle of that — community glue and attention drain at once — and Meos arrives not as a lecture but as a product shaped by those contradictions. The pivot from "why won't people do the right thing" to "what hijacked them" is where the personal and the technical start to overlap, before the conversation wanders into how an AI on your phone is supposed to know what you need without knowing everything about you.
+# beyond the facts
+Beneath the product talk is a quieter anxiety most of us recognise: the feeling that your attention no longer belongs to you, and that even the tools meant to help require a kind of faith — in your gut, in your boundaries, in whoever is holding your data. The conversation doesn't resolve whether deleting social media is wisdom or self-sabotage; it sits with the absurdity of both. What emerges is less a pitch and more a question about agency in an age that profits from your drift.
+# why you should listen
+The teaser can name the threads — gut feel, hijacking, digital cigarettes, privacy contracts — but the arc only makes sense when you hear them argued aloud, interrupted by café life and allowed to meander. Mei doesn't hand Aqeel easy agreement, and the shift from philosophy to architecture to "we should eat" is the point: you need the full conversation to feel where it lands, and what it refuses to tidy up.
 #+end_teaser
 
 #+begin_transcript extravaganza

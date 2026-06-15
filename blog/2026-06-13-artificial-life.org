@@ -11,16 +11,25 @@ A solo bit on NEAT, POET, and MAP-Elites — evolutionary algorithms that grow n
 Watch the full episode below — also on the podcast feed wherever you listen.
 
 #+begin_export html
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gWJhNSDOimM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="extravaganza-player" id="extravaganza-yt-anchor">
+<iframe id="extravaganza-yt" width="100%" height="315" src="https://www.youtube.com/embed/gWJhNSDOimM?enablejsapi=1&origin=https%3A%2F%2Faqeelakber.com&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 #+end_export
 
 #+begin_teaser extravaganza
-- A long-deferred weekend returns to NEAT—the evolutionary algorithm that grows a neural network's wiring, not merely its weights.
-- The fitness task is deliberately awkward: each creature sees an image it produced and must infer the DNA sequence that built both the picture and the brain.
-- Anyone with a browser can join a decentralised swarm over WebAssembly and PartyKit, evolving populations in parallel rather than on one machine.
-- POET and MAP-Elites linger in the background—algorithms built for shifting environments and robots that still walk when a leg disappears.
-- Attention, Hebbian learning, and neuromodulation help, yet one difficulty behaves like a halting problem: knowing how long your own genome is from a glimpse of yourself.
-- Symmetry and low-energy constraints enter as simple rules—and the search begins producing forms that feel less like diagrams and more like something else.
+# the facts
+- A weekend project after the app store launch — two and a half thousand dollars of Opus credits, and an algorithm Aqeel has had "a romantic accession with" since first exposure to AI: NEAT, where evolution changes not just weights but how a neural network connects.
+- The lineage runs through Kenneth O. Stanley, Jeff Clune's POET (environments that evolve alongside the brains), and MAP-Elites — the work behind hexapod robots that heal themselves when a leg stops touching the ground.
+- Built in Mias: volunteer compute in the browser, Cloudflare PartyKit, WebAssembly — a population search algorithm that is "embarrassingly parallel and decentralised", where anyone on a phone can help evolve neural network life forms.
+- The task: each creature sees the image its own DNA produced — "right now I'm looking at a preview of myself" — and must reproduce the sequence that made it; symmetry versus complexity maps the niches, like gait on a hexapod.
+- Hebbian learning, neuroplasticity, neuromodulation; attention over the self-image; knowing when to stop writing the sequence — "effectively a halting problem".
+- The best brains so far: two input neurons at the front like eyeballs, a fat cluster of connections, an output like a spine — "our eyeballs evolved into our brain".
+# between the facts
+Research nostalgia meets shipping software. The same biological inspiration that never quite became a career in AI research keeps surfacing in Meos — and here, in a swarm experiment where strangers' browsers breed creatures that stare at pictures of themselves and try to name what they are. Stanley and Clune's robotics lineage lands in a browser tab; Karpathy's recurrent networks meet a problem hard enough to need knowing your own DNA length just by looking.
+# beyond the facts
+Somewhere beneath the literature review and the WASM build is a quieter question about inheritance: what survives when the copy is false but still carries a trace of the original. Simple rules — three dimensions, pattern production, low energy, symmetry — and structures start to resemble life without anyone declaring that the goal was life at all.
+# why you should listen
+The facts sketch the machinery; the arc is Aqeel walking from hexapod gaits to a live demo, admitting what the weekend cost, and why the self-recognition task exists at all. That thread — from abandoned research paths to what ended up inside Meos, inside the site, inside him — only lands once you've heard how the eyeballs connect to the spine.
 #+end_teaser
 
 #+begin_transcript extravaganza
