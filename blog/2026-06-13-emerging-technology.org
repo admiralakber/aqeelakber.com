@@ -16,6 +16,21 @@ Watch the full episode below — also on the podcast feed wherever you listen.
 </div>
 #+end_export
 
+#+begin_teaser extravaganza
+# The facts
+- Mei Weng Brough-Smyth joins Aqeel at Knox Cafe in Watson, with cafe staff and Esther dropping in.
+- The conversation opens on whether people actually want to do what is good for them.
+- Meos is discussed as an app built around personal prioritisation and design choices that centre the user.
+- Hijacked attention, social feeds, and conscious versus unconscious consumption surface as a live tension.
+- Later threads touch flagship AI models, tool calling, and privacy-first architecture with zero data retention.
+# Between the facts
+What begins as a question about self-care quickly becomes a question about product design, then about culture and attention. Mei pushes on calibration and motive while Aqeel maps Meos onto the same problem from the other side. The cafe keeps intruding gently, which stops the talk from settling into a clean pitch.
+# Beyond the facts
+Beneath the model names and blocker talk sits a quieter search for alignment between what we claim to want and what our days actually reward. The ordinary setting matters: no stage, just people trying to name a feeling most of us recognise but rarely articulate well.
+# Why you should listen
+The value is in how the threads collide rather than where they land. Mei’s scepticism, the detours through social media and AI, and the way the conversation winds down over food give the arc its shape. The full recording holds the pauses, pushback, and unfinished edges a summary cannot.
+#+end_teaser
+
 #+begin_transcript extravaganza
 0:00	This is episode two. Hey, cheers. Cheers. May, how do you get people to do what's good for them? Ah, do people want to do what's good for them?
 0:22	Do you do what's good for you? Occasionally. Occasionally?
