@@ -13,6 +13,7 @@ enforce_ssl: aqeelakber.com
 markdown: kramdown
 permalink: pretty
 mathjax: true
+timezone: Australia/Canberra
 
 defaults:
   -
